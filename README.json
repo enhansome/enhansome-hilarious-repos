@@ -1,0 +1,1068 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nocode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2024-08-07T03:19:12Z",
+            "owner": "kelseyhightower",
+            "repo": "nocode",
+            "stars": 65607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GulfOfMexico",
+          "description": "The Perfect Programming Language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-20T12:20:39Z",
+            "owner": "TodePond",
+            "repo": "GulfOfMexico",
+            "stars": 13599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TrumpScript",
+          "description": "Donald Trump's programming language?",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-12-04T13:55:30Z",
+            "owner": "samshadwell",
+            "repo": "TrumpScript",
+            "stars": 7587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ArnoldC",
+          "description": "Programming language based on the one-liners of Arnold Schwarzenegger.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2024-01-31T22:40:52Z",
+            "owner": "lhartikk",
+            "repo": "ArnoldC",
+            "stars": 6881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emojicode",
+          "description": "the emoji programming language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-08-07T19:20:46Z",
+            "owner": "emojicode",
+            "repo": "emojicode",
+            "stars": 3412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BIIIIIIRLL programming language",
+          "description": "Bambam's \"It's show time\" Recursive Language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-02T14:42:21Z",
+            "owner": "birl-language",
+            "repo": "birl-language.github.io",
+            "stars": 940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DreamBerd programming language",
+          "description": "If the link doesn't work, try this",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-01T14:12:27Z",
+            "owner": "TodePond",
+            "repo": "C",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UwU",
+          "description": "UwU is an esoteric dynamically-typed programming language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-11-20T15:52:05Z",
+            "owner": "PhoenXHO",
+            "repo": "UwU",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Programming Languages"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Git Blame Someone Else",
+          "description": "Blame someone else for your bad code. - Linus Torvalds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-12-04T14:41:06Z",
+            "owner": "jayphelps",
+            "repo": "git-blame-someone-else",
+            "stars": 11696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lolcommits",
+          "description": "takes a snapshot with your webcam every time you git commit code, and archives a lolcat style image with it!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-10T19:45:26Z",
+            "owner": "lolcommits",
+            "repo": "lolcommits",
+            "stars": 4816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Drama",
+          "description": "lists of dramatic github discussions, lol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-10T12:15:15Z",
+            "owner": "neodrama",
+            "repo": "github-drama",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git-vanity-sha",
+          "description": "try to tweak the last commit commiter's timestamp to create a commit SHA using the hex prefix you supply",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2019-12-20T07:52:46Z",
+            "owner": "mattbaker",
+            "repo": "git-vanity-sha",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git-self-blame",
+          "description": "is a simple git plugin that lets you take the blame for code you didn't write!!!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-12-24T13:37:13Z",
+            "owner": "JacobEvelyn",
+            "repo": "git-self-blame",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Musak",
+          "description": "Inserts the currently playing iTunes or Spotify track in your git commit messages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-01-21T18:35:10Z",
+            "owner": "mroth",
+            "repo": "git-muzak",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "I-Made-THIS",
+          "description": "Why build impressive things when many devs already did it? So copy someone else's code and take credit for it!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-02-14T08:28:39Z",
+            "owner": "alichtman",
+            "repo": "i-made-this",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "make-it-taylors-version",
+          "description": "GitHub Action to edit any Issue, Pull Request, or Discussion title with the number 1989 from \"Title\" to \"Title (Taylor's Version).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-07T18:01:09Z",
+            "owner": "ipc103",
+            "repo": "make-it-taylors-version",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Git Related"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Automated Hacker Scripts",
+          "description": "if you like automation, this one is for you",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-23T21:01:40Z",
+            "owner": "NARKOZ",
+            "repo": "hacker-scripts",
+            "stars": 49798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lolcat",
+          "description": "rainbows your terminal output!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-03-05T16:19:55Z",
+            "owner": "busyloop",
+            "repo": "lolcat",
+            "stars": 6565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "parrot.live",
+          "description": "Run to start a party!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-17T10:39:34Z",
+            "owner": "hugomd",
+            "repo": "parrot.live",
+            "stars": 4464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ascii-live",
+          "description": "Curl-based animations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-03T20:25:05Z",
+            "owner": "hugomd",
+            "repo": "ascii-live",
+            "stars": 1033
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bash Cat With Cat",
+          "description": "The classic cat command but with a cat",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-12-12T09:41:32Z",
+            "owner": "GuidoFe",
+            "repo": "bash-cat-with-cat",
+            "stars": 203
+          }
+        }
+      ],
+      "title": "Command line utilities scripts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Not-paid",
+          "description": "User didnt pay? Add opacity to the <body> and decrease every day until his website completely fades away!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T20:35:18Z",
+            "owner": "kleampa",
+            "repo": "not-paid",
+            "stars": 15585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "is-thirteen npm package",
+          "description": "verify if a number is equal 13 (wtfffff)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-29T13:44:33Z",
+            "owner": "jezen",
+            "repo": "is-thirteen",
+            "stars": 6179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FuckItJs",
+          "description": "uses state-of-the-art tech to make sure your JS code runs whether your compiler likes it or not",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-01T19:12:04Z",
+            "owner": "mattdiamond",
+            "repo": "fuckitjs",
+            "stars": 4184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StackOverflow Importer",
+          "description": "if you don't know the how to do it, just import some StackOverflow's answer's code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-09T00:38:40Z",
+            "owner": "drathier",
+            "repo": "stack-overflow-import",
+            "stars": 3732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Is Even",
+          "description": "Is a number even?",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-06T12:41:23Z",
+            "owner": "samuelmarina",
+            "repo": "is-even",
+            "stars": 2221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++",
+          "description": "represents each object as an NFT on the Ethereum blockchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-05-23T16:54:40Z",
+            "owner": "zhuowei",
+            "repo": "nft_ptr",
+            "stars": 2026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "five.js",
+          "description": "JavaScript Library to overcomplicate the number 5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-16T02:34:59Z",
+            "owner": "jackdclark",
+            "repo": "five",
+            "stars": 1539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Penis.js",
+          "description": "what if you want to \"compare\" things size? if you know what I mean ( ͡° ͜ʖ ͡°)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-27T18:59:05Z",
+            "owner": "edankwan",
+            "repo": "penis.js",
+            "stars": 1361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple easy PHP plus 2 numbers (wtf)",
+          "description": "the best enterprised and standadized code to sum to numbers in PHP!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-10-02T06:36:38Z",
+            "owner": "Herzult",
+            "repo": "SimplePHPEasyPlus",
+            "stars": 1157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP Table Flip",
+          "description": "if doesn't work, f*ck this sh*t",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-10-08T15:47:06Z",
+            "owner": "sgolemon",
+            "repo": "table-flip",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hipku",
+          "description": "JavaScript library to encode IPv6 and IPv4 addresses as haiku",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-01-31T18:24:52Z",
+            "owner": "gabemart",
+            "repo": "hipku",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "is-positive",
+          "description": "check whether a number is positive or not (sadly some people use this omg)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-06-28T16:41:24Z",
+            "owner": "kevva",
+            "repo": "is-positive",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DADA.js",
+          "description": "plant something that looks like a Virus made of Windows 98 dialogs on your website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-04-20T22:48:07Z",
+            "owner": "juni-vogt",
+            "repo": "DADA.js",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FalseJS",
+          "description": "JS library that makes sure false always exists by redefining it in every possible (and impossible) way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-06T15:50:21Z",
+            "owner": "10xly",
+            "repo": "FalseJS",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Libraries, Frameworks and SDKs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The fuck",
+          "description": "magnificent app, that corrects errors in previous console commands",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-19T14:56:13Z",
+            "owner": "nvbn",
+            "repo": "thefuck",
+            "stars": 97643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FizzBuzz Enterprise edition",
+          "description": "following all possible standards and patterns to write a FizzBuzz",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-15T08:04:08Z",
+            "owner": "EnterpriseQualityCoding",
+            "repo": "FizzBuzzEnterpriseEdition",
+            "stars": 23777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anime Girls Holding Programmings books",
+          "description": "Anime Girls Holding Programming Books in every programming language. That is all.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-10T18:25:25Z",
+            "owner": "cat-milk",
+            "repo": "Anime-Girls-Holding-Programming-Books",
+            "stars": 22423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "volkswagen",
+          "description": "Volkswagen detects when your tests are being run in a CI server, and makes them pass!!!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-27T07:23:49Z",
+            "owner": "auchenberg",
+            "repo": "volkswagen",
+            "stars": 15459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BossSensor",
+          "description": "change the screen when your boss is approaching",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-10-31T11:42:42Z",
+            "owner": "Hironsan",
+            "repo": "BossSensor",
+            "stars": 6287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Activate Linux Desktop Message - like Windows",
+          "description": "Why not?????????",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-20T21:03:33Z",
+            "owner": "MrGlockenspiel",
+            "repo": "activate-linux",
+            "stars": 5894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minegrub",
+          "description": "A Grub Theme in the style of Minecraft! (this pearson is a genius)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T22:41:28Z",
+            "owner": "Lxtharia",
+            "repo": "minegrub-theme",
+            "stars": 4579
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "my_first_calculator",
+          "description": "the BEST way EVER to build command line calculators, look the source code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-04T04:25:52Z",
+            "owner": "AceLewis",
+            "repo": "my_first_calculator.py",
+            "stars": 4332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "http cats api",
+          "description": "You can use cats instead of HTTP errors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-24T06:57:33Z",
+            "owner": "httpcats",
+            "repo": "http.cat",
+            "stars": 3667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ratty",
+          "description": "a terminal for rodents 🐀🧀",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T03:23:38Z",
+            "owner": "orhun",
+            "repo": "ratty",
+            "stars": 3170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Obamify",
+          "description": "\"revolutionary new technology that turns any image into Obama\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-02T14:53:30Z",
+            "owner": "Spu7Nix",
+            "repo": "obamify",
+            "stars": 2106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gemidão do Zap caller",
+          "description": "call people and perform Alexis Texas famous moaning \"aaaawnn awwwnnn\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-09-13T14:03:40Z",
+            "owner": "haskellcamargo",
+            "repo": "gemidao-do-zap",
+            "stars": 1976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linusrants",
+          "description": "Linus' rants classified by amount of hate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-15T18:40:24Z",
+            "owner": "corollari",
+            "repo": "linusrants",
+            "stars": 1858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ButtFish",
+          "description": "Transmitting Morse Code of chess moves to your butthole (explanation)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-18T19:38:37Z",
+            "owner": "RonSijm",
+            "repo": "ButtFish",
+            "stars": 1516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "my first tic tac toe",
+          "description": "this is the best way to write this, for sure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-26T16:52:28Z",
+            "owner": "asweigart",
+            "repo": "my_first_tic_tac_toe",
+            "stars": 647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Funny Algorithms",
+          "description": "bunch of funny algorithms, beginners friendly",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-05T15:36:25Z",
+            "owner": "ReciHub",
+            "repo": "FunnyAlgorithms",
+            "stars": 522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "30(500) Redirect Blame",
+          "description": "Trick users into thinking their internet is slow! They'll keep reloading until the deploy is over!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-02-09T13:02:15Z",
+            "owner": "will",
+            "repo": "redirect_blame",
+            "stars": 517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Safadometro Calc",
+          "description": "on many langs - calculate how \"naughty\" someone is based on Wesley Safadão's algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elm",
+            "last_commit": "2020-03-06T22:53:32Z",
+            "owner": "ythecombinator",
+            "repo": "safadometro",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codemaxxing",
+          "description": "write enterprise-grade code on the fly. Because quantity is quality (Elon Musk certified).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-17T11:08:36Z",
+            "owner": "jshchnz",
+            "repo": "codemaxxing",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UXVideos",
+          "description": "What if someone merges XVIDEOS website with UX content? lol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Liquid",
+            "last_commit": "2023-08-28T16:39:39Z",
+            "owner": "kikobr",
+            "repo": "UXVIDEOS",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NSA Product Generator",
+          "description": "the name tells everything",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-04-07T21:26:56Z",
+            "owner": "ternus",
+            "repo": "nsaproductgenerator",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GentooWSL",
+          "description": "Have you ever wanted to run Gentoo on Windows? No? Me neither. Introducing GentooWSL",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-12-04T05:00:06Z",
+            "owner": "imaandrew",
+            "repo": "GentooWSL",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "get-H",
+          "description": "if you wanna use the uppercase char, this goes to the Wikipedia Horse's page and copies it for you!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-20T12:23:58Z",
+            "owner": "joaogabrielzo",
+            "repo": "get-H",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EnterpriseFizzBuzz",
+          "description": "622K lines of production-grade FizzBuzz with 253 infrastructure subsystems, including a blockchain, neural network, quantum simulator, and OS kernel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-29T18:19:06Z",
+            "owner": "Elijah-J",
+            "repo": "EnterpriseFizzBuzz",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kognit",
+          "description": "Feed it your GitHub username, get glazed or roasted by an AI that understands your architectural sins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T16:49:25Z",
+            "owner": "Pomilon",
+            "repo": "Kognit",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Standalone projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unmaintainable Code",
+          "description": "Patterns to (un)maintain your software projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-02T17:04:16Z",
+            "owner": "Droogans",
+            "repo": "unmaintainable-code",
+            "stars": 10214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How To Exit Vim",
+          "description": ", check also VIMKiller!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-05T11:33:17Z",
+            "owner": "hakluke",
+            "repo": "how-to-exit-vim",
+            "stars": 7188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dumb Password Rules",
+          "description": "The best rules to create passwords!!1!1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nunjucks",
+            "last_commit": "2026-08-11T14:25:37Z",
+            "owner": "duffn",
+            "repo": "dumb-password-rules",
+            "stars": 3022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bad Licenses",
+          "description": "A compendium of absurd, funny, and downright bad licenses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-08T21:24:59Z",
+            "owner": "ErikMcClure",
+            "repo": "bad-licenses",
+            "stars": 2098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anal Guide",
+          "description": "A comprehensive technical guide regarding anal sex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-29T10:57:35Z",
+            "owner": "regdude",
+            "repo": "anal",
+            "stars": 213
+          }
+        }
+      ],
+      "title": "Rules, Advices, Licenses, Standards & Patterns"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/shrutikapoor08/devjoke",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-07T01:02:49Z",
+            "owner": "shrutikapoor08",
+            "repo": "devjoke",
+            "stars": 1055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/taivop/joke-dataset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-12-16T10:22:00Z",
+            "owner": "taivop",
+            "repo": "joke-dataset",
+            "stars": 632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/amoudgl/short-jokes-dataset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-01T14:14:39Z",
+            "owner": "amoudgl",
+            "repo": "short-jokes-dataset",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Sv443/JokeAPI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-08T01:51:32Z",
+            "owner": "Sv443-Network",
+            "repo": "JokeAPI",
+            "stars": 281
+          }
+        }
+      ],
+      "title": "Dev Jokes collection (datasets)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-07-02T11:23:43Z",
+            "owner": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+            "repo": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+            "stars": 10572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Potato",
+          "description": "If you fork this you can say that you forked a potato. Forking potatoes is an ancient and well-mannered tradition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-11-21T16:32:05Z",
+            "owner": "drtshock",
+            "repo": "Potato",
+            "stars": 789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fucking-Websites",
+          "description": "A curated list of websites that tell you to just use the fucking tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-21T13:23:12Z",
+            "owner": "Kuberwastaken",
+            "repo": "awesome-fucking-websites",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Sorry, Idk how to categorize/tag/label this project"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:00:53.469Z",
+    "original_repository": "terremoth/awesome-hilarious-repos",
+    "original_repository_sha": "992f5302bf7e33791c3942754cfb9f05d96475a6",
+    "enhanced_repository": "enhansome/enhansome-hilarious-repos",
+    "enhanced_repository_description": null,
+    "title": "Awesome Hilarious GitHub Repositories with stars"
+  }
+}
