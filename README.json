@@ -14,7 +14,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65608
+            "stars": 65611
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2023-12-04T14:41:06Z",
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11696
+            "stars": 11697
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-06-10T12:15:15Z",
             "owner": "neodrama",
             "repo": "github-drama",
-            "stars": 363
+            "stars": 364
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2023-10-23T21:01:40Z",
             "owner": "NARKOZ",
             "repo": "hacker-scripts",
-            "stars": 49798
+            "stars": 49797
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2024-03-05T16:19:55Z",
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6565
+            "stars": 6564
           }
         },
         {
@@ -340,7 +340,7 @@
             "last_commit": "2026-01-29T13:44:33Z",
             "owner": "jezen",
             "repo": "is-thirteen",
-            "stars": 6179
+            "stars": 6180
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2023-07-01T19:12:04Z",
             "owner": "mattdiamond",
             "repo": "fuckitjs",
-            "stars": 4184
+            "stars": 4183
           }
         },
         {
@@ -382,7 +382,7 @@
             "last_commit": "2024-06-06T12:41:23Z",
             "owner": "samuelmarina",
             "repo": "is-even",
-            "stars": 2222
+            "stars": 2224
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2024-07-19T14:56:13Z",
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97645
+            "stars": 97690
           }
         },
         {
@@ -542,7 +542,7 @@
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23778
+            "stars": 23775
           }
         },
         {
@@ -556,7 +556,7 @@
             "last_commit": "2026-03-10T18:25:25Z",
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22435
+            "stars": 22444
           }
         },
         {
@@ -570,7 +570,7 @@
             "last_commit": "2026-02-27T07:23:49Z",
             "owner": "auchenberg",
             "repo": "volkswagen",
-            "stars": 15459
+            "stars": 15461
           }
         },
         {
@@ -584,7 +584,7 @@
             "last_commit": "2018-10-31T11:42:42Z",
             "owner": "Hironsan",
             "repo": "BossSensor",
-            "stars": 6287
+            "stars": 6288
           }
         },
         {
@@ -598,7 +598,7 @@
             "last_commit": "2026-07-20T21:03:33Z",
             "owner": "MrGlockenspiel",
             "repo": "activate-linux",
-            "stars": 5895
+            "stars": 5908
           }
         },
         {
@@ -626,7 +626,7 @@
             "last_commit": "2024-08-04T04:25:52Z",
             "owner": "AceLewis",
             "repo": "my_first_calculator.py",
-            "stars": 4332
+            "stars": 4331
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2026-08-10T03:23:38Z",
             "owner": "orhun",
             "repo": "ratty",
-            "stars": 3169
+            "stars": 3173
           }
         },
         {
@@ -724,7 +724,7 @@
             "last_commit": "2024-05-26T16:52:28Z",
             "owner": "asweigart",
             "repo": "my_first_tic_tac_toe",
-            "stars": 647
+            "stars": 646
           }
         },
         {
@@ -738,7 +738,7 @@
             "last_commit": "2026-01-05T15:36:25Z",
             "owner": "ReciHub",
             "repo": "FunnyAlgorithms",
-            "stars": 522
+            "stars": 523
           }
         },
         {
@@ -752,7 +752,7 @@
             "last_commit": "2023-02-09T13:02:15Z",
             "owner": "will",
             "repo": "redirect_blame",
-            "stars": 517
+            "stars": 516
           }
         },
         {
@@ -884,7 +884,7 @@
             "last_commit": "2021-08-02T17:04:16Z",
             "owner": "Droogans",
             "repo": "unmaintainable-code",
-            "stars": 10214
+            "stars": 10216
           }
         },
         {
@@ -926,7 +926,7 @@
             "last_commit": "2026-06-08T21:24:59Z",
             "owner": "ErikMcClure",
             "repo": "bad-licenses",
-            "stars": 2099
+            "stars": 2100
           }
         },
         {
@@ -1058,7 +1058,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:35:45.446Z",
+    "last_updated": "2026-08-14T11:33:40.353Z",
     "original_repository": "terremoth/awesome-hilarious-repos",
     "original_repository_sha": "992f5302bf7e33791c3942754cfb9f05d96475a6",
     "enhanced_repository": "enhansome/enhansome-hilarious-repos",
