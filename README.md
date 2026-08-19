@@ -8,7 +8,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 
 ## Programming Languages
 
-* [nocode](https://github.com/kelseyhightower/nocode) ⭐ 65,641 | 🐛 4,718 | 🌐 Dockerfile | 📅 2024-08-07 - ` `
+* [nocode](https://github.com/kelseyhightower/nocode) ⭐ 65,642 | 🐛 4,718 | 🌐 Dockerfile | 📅 2024-08-07 - ` `
 * [GulfOfMexico](https://github.com/TodePond/GulfOfMexico) ⭐ 13,603 | 🐛 488 | 📅 2026-01-20 - The Perfect Programming Language
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) ⚠️ Archived - Donald Trump's programming language?
 * [ArnoldC](https://github.com/lhartikk/ArnoldC) ⭐ 6,880 | 🐛 73 | 🌐 Scala | 📅 2024-01-31 - Programming language based on the one-liners of Arnold Schwarzenegger.
@@ -64,7 +64,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 * [Activate Linux Desktop Message - like Windows](https://github.com/MrGlockenspiel/activate-linux) ⭐ 5,918 | 🐛 38 | 🌐 C | 📅 2026-07-20 - Why not?????????
 * [Minegrub](https://github.com/Lxtharia/minegrub-theme) ⭐ 4,584 | 🐛 5 | 🌐 Python | 📅 2026-08-11 - A Grub Theme in the style of Minecraft! (this pearson is a genius)
 * [my\_first\_calculator](https://github.com/AceLewis/my_first_calculator.py) ⭐ 4,335 | 🐛 185 | 🌐 Python | 📅 2024-08-04 - the BEST way EVER to build command line calculators, look the source code
-* [http cats api](https://github.com/httpcats/http.cat) ⭐ 3,675 | 🐛 38 | 🌐 TypeScript | 📅 2026-03-24 - You can use cats instead of HTTP errors
+* [http cats api](https://github.com/httpcats/http.cat) ⭐ 3,676 | 🐛 38 | 🌐 TypeScript | 📅 2026-03-24 - You can use cats instead of HTTP errors
 * [ratty](https://github.com/orhun/ratty) ⭐ 3,183 | 🐛 44 | 🌐 Rust | 📅 2026-08-10 - a terminal for rodents 🐀🧀
 * [Obamify](https://github.com/Spu7Nix/obamify) ⭐ 2,105 | 🐛 50 | 🌐 Rust | 📅 2026-02-02 - "revolutionary new technology that turns any image into Obama"
 * [Gemidão do Zap caller](https://github.com/haskellcamargo/gemidao-do-zap) ⭐ 1,975 | 🐛 28 | 🌐 JavaScript | 📅 2018-09-13 - call people and perform Alexis Texas famous moaning "aaaawnn awwwnnn"

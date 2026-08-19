@@ -15,7 +15,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65641
+            "stars": 65642
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2026-03-24T06:57:33Z",
             "owner": "httpcats",
             "repo": "http.cat",
-            "stars": 3675
+            "stars": 3676
           }
         },
         {
@@ -1131,8 +1131,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:11:54.910Z",
+    "last_updated": "2026-08-19T12:36:11.239Z",
     "original_repository": "terremoth/awesome-hilarious-repos",
+    "original_repository_id": 248397539,
     "original_repository_sha": "992f5302bf7e33791c3942754cfb9f05d96475a6",
     "enhanced_repository": "enhansome/enhansome-hilarious-repos",
     "enhanced_repository_description": null,
