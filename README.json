@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120538304,
             "language": "Dockerfile",
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 482593551,
             "language": null,
             "last_commit": "2026-01-20T12:20:39Z",
             "owner": "TodePond",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 49760504,
             "language": "Python",
             "last_commit": "2019-12-04T13:55:30Z",
             "owner": "samshadwell",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13451291,
             "language": "Scala",
             "last_commit": "2024-01-31T22:40:52Z",
             "owner": "lhartikk",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48860275,
             "language": "C",
             "last_commit": "2023-08-07T19:20:46Z",
             "owner": "emojicode",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63185668,
             "language": "JavaScript",
             "last_commit": "2018-09-02T14:42:21Z",
             "owner": "birl-language",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 680732028,
             "language": null,
             "last_commit": "2023-09-01T14:12:27Z",
             "owner": "TodePond",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 463214013,
             "language": "C++",
             "last_commit": "2023-11-20T15:52:05Z",
             "owner": "PhoenXHO",
@@ -119,7 +127,7 @@
       "title": "Programming Languages"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -128,11 +136,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51184395,
             "language": "Shell",
             "last_commit": "2023-12-04T14:41:06Z",
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11701
+            "stars": 11702
           }
         },
         {
@@ -142,8 +151,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2499845,
             "language": "Ruby",
-            "last_commit": "2026-08-10T19:45:26Z",
+            "last_commit": "2026-08-19T05:21:01Z",
             "owner": "lolcommits",
             "repo": "lolcommits",
             "stars": 4816
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 676617382,
             "language": null,
             "last_commit": "2026-08-16T15:17:09Z",
             "owner": "neodrama",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131259427,
             "language": "Ruby",
             "last_commit": "2019-12-20T07:52:46Z",
             "owner": "mattbaker",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121970837,
             "language": "Shell",
             "last_commit": "2019-12-24T13:37:13Z",
             "owner": "JacobEvelyn",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79657596,
             "language": "Shell",
             "last_commit": "2017-01-21T18:35:10Z",
             "owner": "mroth",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130539506,
             "language": "Shell",
             "last_commit": "2022-02-14T08:28:39Z",
             "owner": "alichtman",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 750475611,
             "language": null,
             "last_commit": "2026-01-07T18:01:09Z",
             "owner": "ipc103",
@@ -237,7 +253,7 @@
       "title": "Git Related"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -246,11 +262,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46629305,
             "language": "JavaScript",
             "last_commit": "2023-10-23T21:01:40Z",
             "owner": "NARKOZ",
             "repo": "hacker-scripts",
-            "stars": 49801
+            "stars": 49802
           }
         },
         {
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2185269,
             "language": "Ruby",
             "last_commit": "2024-03-05T16:19:55Z",
             "owner": "busyloop",
@@ -274,11 +292,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113147257,
             "language": "JavaScript",
             "last_commit": "2026-01-17T10:39:34Z",
             "owner": "hugomd",
             "repo": "parrot.live",
-            "stars": 4464
+            "stars": 4463
           }
         },
         {
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213791587,
             "language": "Go",
             "last_commit": "2025-05-03T20:25:05Z",
             "owner": "hugomd",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317967142,
             "language": "Shell",
             "last_commit": "2020-12-12T09:41:32Z",
             "owner": "GuidoFe",
@@ -313,7 +334,7 @@
       "title": "Command line utilities scripts"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -322,11 +343,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70100622,
             "language": "JavaScript",
             "last_commit": "2026-08-08T20:35:18Z",
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15583
+            "stars": 15584
           }
         },
         {
@@ -336,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54572588,
             "language": "JavaScript",
             "last_commit": "2026-01-29T13:44:33Z",
             "owner": "jezen",
@@ -350,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4707611,
             "language": "JavaScript",
             "last_commit": "2023-07-01T19:12:04Z",
             "owner": "mattdiamond",
@@ -364,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72152531,
             "language": "Python",
             "last_commit": "2022-01-09T00:38:40Z",
             "owner": "drathier",
@@ -378,11 +403,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 396604405,
             "language": null,
             "last_commit": "2024-06-06T12:41:23Z",
             "owner": "samuelmarina",
             "repo": "is-even",
-            "stars": 2225
+            "stars": 2226
           }
         },
         {
@@ -392,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 353568885,
             "language": "Rust",
             "last_commit": "2021-05-23T16:54:40Z",
             "owner": "zhuowei",
@@ -406,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21247519,
             "language": "JavaScript",
             "last_commit": "2022-12-16T02:34:59Z",
             "owner": "jackdclark",
@@ -420,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6554957,
             "language": "JavaScript",
             "last_commit": "2025-05-27T18:59:05Z",
             "owner": "edankwan",
@@ -434,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1144082,
             "language": "PHP",
             "last_commit": "2020-10-02T06:36:38Z",
             "owner": "Herzult",
@@ -448,6 +478,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59719001,
             "language": "PHP",
             "last_commit": "2017-10-08T15:47:06Z",
             "owner": "sgolemon",
@@ -462,6 +493,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27898489,
             "language": "JavaScript",
             "last_commit": "2019-01-31T18:24:52Z",
             "owner": "gabemart",
@@ -476,6 +508,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36730150,
             "language": "JavaScript",
             "last_commit": "2017-06-28T16:41:24Z",
             "owner": "kevva",
@@ -490,6 +523,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56349210,
             "language": "JavaScript",
             "last_commit": "2016-04-20T22:48:07Z",
             "owner": "juni-vogt",
@@ -504,6 +538,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 847968931,
             "language": "JavaScript",
             "last_commit": "2026-08-17T16:49:52Z",
             "owner": "10xly",
@@ -515,7 +550,7 @@
       "title": "Libraries, Frameworks and SDKs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -524,11 +559,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33614304,
             "language": "Python",
             "last_commit": "2024-07-19T14:56:13Z",
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97713
+            "stars": 97715
           }
         },
         {
@@ -538,11 +574,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6834703,
             "language": "Java",
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23778
+            "stars": 23780
           }
         },
         {
@@ -552,11 +589,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90916769,
             "language": null,
             "last_commit": "2026-03-10T18:25:25Z",
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22459
+            "stars": 22464
           }
         },
         {
@@ -566,6 +604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43830564,
             "language": "JavaScript",
             "last_commit": "2026-02-27T07:23:49Z",
             "owner": "auchenberg",
@@ -580,6 +619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62535969,
             "language": "Python",
             "last_commit": "2018-10-31T11:42:42Z",
             "owner": "Hironsan",
@@ -594,11 +634,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 470739558,
             "language": "C",
             "last_commit": "2026-07-20T21:03:33Z",
             "owner": "MrGlockenspiel",
             "repo": "activate-linux",
-            "stars": 5915
+            "stars": 5918
           }
         },
         {
@@ -608,11 +649,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 573559229,
             "language": "Python",
             "last_commit": "2026-08-11T22:41:28Z",
             "owner": "Lxtharia",
             "repo": "minegrub-theme",
-            "stars": 4580
+            "stars": 4584
           }
         },
         {
@@ -622,6 +664,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58224863,
             "language": "Python",
             "last_commit": "2024-08-04T04:25:52Z",
             "owner": "AceLewis",
@@ -636,11 +679,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41638869,
             "language": "TypeScript",
             "last_commit": "2026-03-24T06:57:33Z",
             "owner": "httpcats",
             "repo": "http.cat",
-            "stars": 3672
+            "stars": 3675
           }
         },
         {
@@ -650,11 +694,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1216390615,
             "language": "Rust",
             "last_commit": "2026-08-10T03:23:38Z",
             "owner": "orhun",
             "repo": "ratty",
-            "stars": 3181
+            "stars": 3183
           }
         },
         {
@@ -664,11 +709,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1048272688,
             "language": "Rust",
             "last_commit": "2026-02-02T14:53:30Z",
             "owner": "Spu7Nix",
             "repo": "obamify",
-            "stars": 2104
+            "stars": 2105
           }
         },
         {
@@ -678,6 +724,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99598462,
             "language": "JavaScript",
             "last_commit": "2018-09-13T14:03:40Z",
             "owner": "haskellcamargo",
@@ -692,6 +739,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127050290,
             "language": "Python",
             "last_commit": "2020-09-15T18:40:24Z",
             "owner": "corollari",
@@ -706,6 +754,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541687593,
             "language": "C#",
             "last_commit": "2026-02-18T19:38:37Z",
             "owner": "RonSijm",
@@ -720,6 +769,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46020858,
             "language": "Python",
             "last_commit": "2024-05-26T16:52:28Z",
             "owner": "asweigart",
@@ -734,6 +784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150083876,
             "language": "C++",
             "last_commit": "2026-01-05T15:36:25Z",
             "owner": "ReciHub",
@@ -748,6 +799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11624586,
             "language": "HTML",
             "last_commit": "2023-02-09T13:02:15Z",
             "owner": "will",
@@ -762,6 +814,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47948272,
             "language": "Elm",
             "last_commit": "2020-03-06T22:53:32Z",
             "owner": "ythecombinator",
@@ -776,6 +829,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1196516510,
             "language": "Python",
             "last_commit": "2026-04-17T11:08:36Z",
             "owner": "jshchnz",
@@ -790,6 +844,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103725599,
             "language": "Liquid",
             "last_commit": "2023-08-28T16:39:39Z",
             "owner": "kikobr",
@@ -804,6 +859,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15540705,
             "language": "JavaScript",
             "last_commit": "2016-04-07T21:26:56Z",
             "owner": "ternus",
@@ -818,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 226217049,
             "language": "C++",
             "last_commit": "2024-12-04T05:00:06Z",
             "owner": "imaandrew",
@@ -832,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229260067,
             "language": "Python",
             "last_commit": "2019-12-20T12:23:58Z",
             "owner": "joaogabrielzo",
@@ -846,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1188218425,
             "language": "Python",
             "last_commit": "2026-03-29T18:19:06Z",
             "owner": "Elijah-J",
@@ -860,6 +919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1136321137,
             "language": "Python",
             "last_commit": "2026-01-21T16:49:25Z",
             "owner": "Pomilon",
@@ -871,7 +931,7 @@
       "title": "Standalone projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -880,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39785222,
             "language": null,
             "last_commit": "2021-08-02T17:04:16Z",
             "owner": "Droogans",
@@ -894,6 +955,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210854001,
             "language": null,
             "last_commit": "2026-08-05T11:33:17Z",
             "owner": "hakluke",
@@ -908,6 +970,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75543530,
             "language": "Nunjucks",
             "last_commit": "2026-08-11T14:25:37Z",
             "owner": "duffn",
@@ -922,6 +985,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104021152,
             "language": null,
             "last_commit": "2026-06-08T21:24:59Z",
             "owner": "ErikMcClure",
@@ -936,18 +1000,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 417243746,
             "language": "Shell",
             "last_commit": "2026-05-29T10:57:35Z",
             "owner": "regdude",
             "repo": "anal",
-            "stars": 214
+            "stars": 215
           }
         }
       ],
       "title": "Rules, Advices, Licenses, Standards & Patterns"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -956,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175751187,
             "language": "Python",
             "last_commit": "2024-08-07T01:02:49Z",
             "owner": "shrutikapoor08",
@@ -970,6 +1036,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 81943155,
             "language": "Python",
             "last_commit": "2022-12-16T10:22:00Z",
             "owner": "taivop",
@@ -984,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81136562,
             "language": "Python",
             "last_commit": "2020-10-01T14:14:39Z",
             "owner": "amoudgl",
@@ -998,67 +1066,72 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176494253,
             "language": null,
             "last_commit": "2025-12-08T01:51:32Z",
             "owner": "Sv443-Network",
             "repo": "JokeAPI",
             "stars": 282
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 156648725,
+                "language": "Python",
+                "last_commit": "2019-07-02T11:23:43Z",
+                "owner": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                "repo": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                "stars": 10566
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Potato",
+              "description": "If you fork this you can say that you forked a potato. Forking potatoes is an ancient and well-mannered tradition.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14253830,
+                "language": "Java",
+                "last_commit": "2024-11-21T16:32:05Z",
+                "owner": "drtshock",
+                "repo": "Potato",
+                "stars": 791
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fucking-Websites",
+              "description": "A curated list of websites that tell you to just use the fucking tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1120243087,
+                "language": "HTML",
+                "last_commit": "2025-12-21T13:23:12Z",
+                "owner": "Kuberwastaken",
+                "repo": "awesome-fucking-websites",
+                "stars": 29
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sorry, Idk how to categorize/tag/label this project"
         }
       ],
       "title": "Dev Jokes collection (datasets)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2019-07-02T11:23:43Z",
-            "owner": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-            "repo": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-            "stars": 10565
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Potato",
-          "description": "If you fork this you can say that you forked a potato. Forking potatoes is an ancient and well-mannered tradition.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-11-21T16:32:05Z",
-            "owner": "drtshock",
-            "repo": "Potato",
-            "stars": 791
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fucking-Websites",
-          "description": "A curated list of websites that tell you to just use the fucking tool.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-12-21T13:23:12Z",
-            "owner": "Kuberwastaken",
-            "repo": "awesome-fucking-websites",
-            "stars": 29
-          }
-        }
-      ],
-      "title": "Sorry, Idk how to categorize/tag/label this project"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:12:16.001Z",
+    "last_updated": "2026-08-19T11:11:54.910Z",
     "original_repository": "terremoth/awesome-hilarious-repos",
     "original_repository_sha": "992f5302bf7e33791c3942754cfb9f05d96475a6",
     "enhanced_repository": "enhansome/enhansome-hilarious-repos",
