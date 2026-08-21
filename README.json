@@ -15,7 +15,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65649
+            "stars": 65654
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-01-20T12:20:39Z",
             "owner": "TodePond",
             "repo": "GulfOfMexico",
-            "stars": 13599
+            "stars": 13601
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2023-08-07T19:20:46Z",
             "owner": "emojicode",
             "repo": "emojicode",
-            "stars": 3413
+            "stars": 3412
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2018-09-02T14:42:21Z",
             "owner": "birl-language",
             "repo": "birl-language.github.io",
-            "stars": 940
+            "stars": 941
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2023-12-04T14:41:06Z",
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11702
+            "stars": 11701
           }
         },
         {
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 2499845,
             "language": "Ruby",
-            "last_commit": "2026-08-19T05:21:01Z",
+            "last_commit": "2026-08-20T23:45:52Z",
             "owner": "lolcommits",
             "repo": "lolcommits",
             "stars": 4816
@@ -267,7 +267,7 @@
             "last_commit": "2023-10-23T21:01:40Z",
             "owner": "NARKOZ",
             "repo": "hacker-scripts",
-            "stars": 49801
+            "stars": 49802
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2025-05-03T20:25:05Z",
             "owner": "hugomd",
             "repo": "ascii-live",
-            "stars": 1032
+            "stars": 1033
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2023-07-01T19:12:04Z",
             "owner": "mattdiamond",
             "repo": "fuckitjs",
-            "stars": 4184
+            "stars": 4183
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2021-05-23T16:54:40Z",
             "owner": "zhuowei",
             "repo": "nft_ptr",
-            "stars": 2026
+            "stars": 2025
           }
         },
         {
@@ -564,7 +564,7 @@
             "last_commit": "2024-07-19T14:56:13Z",
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97719
+            "stars": 97726
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23780
+            "stars": 23782
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2026-03-10T18:25:25Z",
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22467
+            "stars": 22472
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-07-20T21:03:33Z",
             "owner": "MrGlockenspiel",
             "repo": "activate-linux",
-            "stars": 5922
+            "stars": 5921
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2024-08-04T04:25:52Z",
             "owner": "AceLewis",
             "repo": "my_first_calculator.py",
-            "stars": 4335
+            "stars": 4336
           }
         },
         {
@@ -699,7 +699,7 @@
             "last_commit": "2026-08-10T03:23:38Z",
             "owner": "orhun",
             "repo": "ratty",
-            "stars": 3188
+            "stars": 3190
           }
         },
         {
@@ -744,7 +744,7 @@
             "last_commit": "2020-09-15T18:40:24Z",
             "owner": "corollari",
             "repo": "linusrants",
-            "stars": 1858
+            "stars": 1860
           }
         },
         {
@@ -960,7 +960,7 @@
             "last_commit": "2026-08-05T11:33:17Z",
             "owner": "hakluke",
             "repo": "how-to-exit-vim",
-            "stars": 7186
+            "stars": 7185
           }
         },
         {
@@ -1088,7 +1088,7 @@
                 "last_commit": "2019-07-02T11:23:43Z",
                 "owner": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
                 "repo": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-                "stars": 10566
+                "stars": 10564
               }
             },
             {
@@ -1131,7 +1131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:13:35.510Z",
+    "last_updated": "2026-08-21T11:13:23.556Z",
     "original_repository": "terremoth/awesome-hilarious-repos",
     "original_repository_id": 248397539,
     "original_repository_sha": "992f5302bf7e33791c3942754cfb9f05d96475a6",
