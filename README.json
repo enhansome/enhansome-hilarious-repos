@@ -15,7 +15,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65654
+            "stars": 65656
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2019-12-04T13:55:30Z",
             "owner": "samshadwell",
             "repo": "TrumpScript",
-            "stars": 7587
+            "stars": 7586
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2023-12-04T14:41:06Z",
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11701
+            "stars": 11702
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-16T15:17:09Z",
             "owner": "neodrama",
             "repo": "github-drama",
-            "stars": 364
+            "stars": 365
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2026-01-17T10:39:34Z",
             "owner": "hugomd",
             "repo": "parrot.live",
-            "stars": 4463
+            "stars": 4464
           }
         },
         {
@@ -408,7 +408,7 @@
             "last_commit": "2024-06-06T12:41:23Z",
             "owner": "samuelmarina",
             "repo": "is-even",
-            "stars": 2225
+            "stars": 2226
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2025-05-27T18:59:05Z",
             "owner": "edankwan",
             "repo": "penis.js",
-            "stars": 1362
+            "stars": 1361
           }
         },
         {
@@ -564,7 +564,7 @@
             "last_commit": "2024-07-19T14:56:13Z",
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97726
+            "stars": 97733
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23782
+            "stars": 23784
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2026-03-10T18:25:25Z",
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22472
+            "stars": 22475
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-07-20T21:03:33Z",
             "owner": "MrGlockenspiel",
             "repo": "activate-linux",
-            "stars": 5921
+            "stars": 5922
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2026-08-11T22:41:28Z",
             "owner": "Lxtharia",
             "repo": "minegrub-theme",
-            "stars": 4585
+            "stars": 4589
           }
         },
         {
@@ -699,7 +699,7 @@
             "last_commit": "2026-08-10T03:23:38Z",
             "owner": "orhun",
             "repo": "ratty",
-            "stars": 3190
+            "stars": 3193
           }
         },
         {
@@ -744,7 +744,7 @@
             "last_commit": "2020-09-15T18:40:24Z",
             "owner": "corollari",
             "repo": "linusrants",
-            "stars": 1860
+            "stars": 1863
           }
         },
         {
@@ -960,7 +960,7 @@
             "last_commit": "2026-08-05T11:33:17Z",
             "owner": "hakluke",
             "repo": "how-to-exit-vim",
-            "stars": 7185
+            "stars": 7186
           }
         },
         {
@@ -1088,7 +1088,7 @@
                 "last_commit": "2019-07-02T11:23:43Z",
                 "owner": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
                 "repo": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-                "stars": 10564
+                "stars": 10563
               }
             },
             {
@@ -1131,7 +1131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:13:23.556Z",
+    "last_updated": "2026-08-22T11:08:22.712Z",
     "original_repository": "terremoth/awesome-hilarious-repos",
     "original_repository_id": 248397539,
     "original_repository_sha": "992f5302bf7e33791c3942754cfb9f05d96475a6",
