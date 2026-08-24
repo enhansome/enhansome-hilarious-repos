@@ -15,7 +15,7 @@
             "last_commit": "2024-08-07T03:19:12Z",
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65659
+            "stars": 65658
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-01-20T12:20:39Z",
             "owner": "TodePond",
             "repo": "GulfOfMexico",
-            "stars": 13605
+            "stars": 13604
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2024-03-05T16:19:55Z",
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6565
+            "stars": 6566
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2025-05-03T20:25:05Z",
             "owner": "hugomd",
             "repo": "ascii-live",
-            "stars": 1033
+            "stars": 1034
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2026-08-08T20:35:18Z",
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15582
+            "stars": 15584
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23785
+            "stars": 23787
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2026-03-10T18:25:25Z",
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22478
+            "stars": 22479
           }
         },
         {
@@ -609,7 +609,7 @@
             "last_commit": "2026-02-27T07:23:49Z",
             "owner": "auchenberg",
             "repo": "volkswagen",
-            "stars": 15459
+            "stars": 15461
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-07-20T21:03:33Z",
             "owner": "MrGlockenspiel",
             "repo": "activate-linux",
-            "stars": 5923
+            "stars": 5924
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2026-08-11T22:41:28Z",
             "owner": "Lxtharia",
             "repo": "minegrub-theme",
-            "stars": 4590
+            "stars": 4593
           }
         },
         {
@@ -669,7 +669,7 @@
             "last_commit": "2024-08-04T04:25:52Z",
             "owner": "AceLewis",
             "repo": "my_first_calculator.py",
-            "stars": 4335
+            "stars": 4336
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2026-03-24T06:57:33Z",
             "owner": "httpcats",
             "repo": "http.cat",
-            "stars": 3679
+            "stars": 3680
           }
         },
         {
@@ -699,7 +699,7 @@
             "last_commit": "2026-08-10T03:23:38Z",
             "owner": "orhun",
             "repo": "ratty",
-            "stars": 3193
+            "stars": 3195
           }
         },
         {
@@ -744,7 +744,7 @@
             "last_commit": "2020-09-15T18:40:24Z",
             "owner": "corollari",
             "repo": "linusrants",
-            "stars": 1868
+            "stars": 1871
           }
         },
         {
@@ -945,7 +945,7 @@
             "last_commit": "2021-08-02T17:04:16Z",
             "owner": "Droogans",
             "repo": "unmaintainable-code",
-            "stars": 10213
+            "stars": 10212
           }
         },
         {
@@ -972,7 +972,7 @@
             "archived": false,
             "id": 75543530,
             "language": "Nunjucks",
-            "last_commit": "2026-08-11T14:25:37Z",
+            "last_commit": "2026-08-23T14:29:04Z",
             "owner": "duffn",
             "repo": "dumb-password-rules",
             "stars": 3022
@@ -1005,7 +1005,7 @@
             "last_commit": "2026-05-29T10:57:35Z",
             "owner": "regdude",
             "repo": "anal",
-            "stars": 215
+            "stars": 216
           }
         }
       ],
@@ -1131,7 +1131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T11:08:57.524Z",
+    "last_updated": "2026-08-24T11:15:14.328Z",
     "original_repository": "terremoth/awesome-hilarious-repos",
     "original_repository_id": 248397539,
     "original_repository_sha": "992f5302bf7e33791c3942754cfb9f05d96475a6",
