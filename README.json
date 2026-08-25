@@ -267,7 +267,7 @@
             "last_commit": "2023-10-23T21:01:40Z",
             "owner": "NARKOZ",
             "repo": "hacker-scripts",
-            "stars": 49807
+            "stars": 49808
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2022-01-09T00:38:40Z",
             "owner": "drathier",
             "repo": "stack-overflow-import",
-            "stars": 3731
+            "stars": 3732
           }
         },
         {
@@ -564,7 +564,7 @@
             "last_commit": "2024-07-19T14:56:13Z",
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97743
+            "stars": 97745
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2024-07-15T08:04:08Z",
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23787
+            "stars": 23788
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2026-03-10T18:25:25Z",
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22481
+            "stars": 22482
           }
         },
         {
@@ -699,7 +699,7 @@
             "last_commit": "2026-08-10T03:23:38Z",
             "owner": "orhun",
             "repo": "ratty",
-            "stars": 3196
+            "stars": 3197
           }
         },
         {
@@ -1131,7 +1131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:13:41.869Z",
+    "last_updated": "2026-08-25T11:13:57.477Z",
     "original_repository": "terremoth/awesome-hilarious-repos",
     "original_repository_id": 248397539,
     "original_repository_sha": "992f5302bf7e33791c3942754cfb9f05d96475a6",
