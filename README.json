@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The best way to write secure and reliable applications. Write nothing; deploy nowhere.",
+            "homepage": null,
             "id": 120538304,
             "language": "Dockerfile",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
+            "open_issues": 4721,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65675
+            "stars": 65674,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "perfect programming language",
+            "homepage": "https://dreamberd.computer",
             "id": 482593551,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-01-20T12:20:39Z",
+            "open_issues": 489,
             "owner": "TodePond",
             "repo": "GulfOfMexico",
-            "stars": 13604
+            "stars": 13604,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Make Python great again",
+            "homepage": null,
             "id": 49760504,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-12-04T13:55:30Z",
+            "open_issues": 5,
             "owner": "samshadwell",
             "repo": "TrumpScript",
-            "stars": 7586
+            "stars": 7587,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arnold Schwarzenegger based programming language",
+            "homepage": "lhartikk.github.io/ArnoldC/",
             "id": 13451291,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-31T22:40:52Z",
+            "open_issues": 73,
             "owner": "lhartikk",
             "repo": "ArnoldC",
-            "stars": 6882
+            "stars": 6882,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -74,12 +94,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😀😜🔂 World’s only programming language that’s bursting with emojis",
+            "homepage": "https://emojicode.org",
             "id": 48860275,
             "language": "C",
+            "license": "Artistic-2.0",
             "last_commit": "2023-08-07T19:20:46Z",
+            "open_issues": 21,
             "owner": "emojicode",
             "repo": "emojicode",
-            "stars": 3413
+            "stars": 3413,
+            "topics": [
+              "compiler",
+              "emojicode",
+              "emojis",
+              "language",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -90,12 +121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BIRL (Bambam's \"It's show time\" Recursive Language), a linguagem descendente! Derrubar tudo essas árvores do Parque Ibirapuera! BIRL!",
+            "homepage": "https://birl-language.github.io",
             "id": 63185668,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-09-02T14:42:21Z",
+            "open_issues": 26,
             "owner": "birl-language",
             "repo": "birl-language.github.io",
-            "stars": 941
+            "stars": 941,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -106,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "test",
+            "homepage": null,
             "id": 680732028,
             "language": null,
+            "license": null,
             "last_commit": "2023-09-01T14:12:27Z",
+            "open_issues": 1,
             "owner": "TodePond",
             "repo": "C",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -122,12 +163,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Just an UwU esoteric programming language interpreter written in C++.",
+            "homepage": null,
             "id": 463214013,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-11-20T15:52:05Z",
+            "open_issues": 0,
             "owner": "PhoenXHO",
             "repo": "UwU",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "bytecode",
+              "bytecode-compiler",
+              "bytecode-interpreter",
+              "compiler",
+              "compiler-design",
+              "interpreter",
+              "language",
+              "programming-language",
+              "uwu",
+              "uwulang"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         }
@@ -144,12 +201,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blame someone else for your bad code.",
+            "homepage": null,
             "id": 51184395,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-12-04T14:41:06Z",
+            "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11703
+            "stars": 11703,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -160,12 +222,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":camera: git-based selfies for software developers",
+            "homepage": "https://lolcommits.com",
             "id": 2499845,
             "language": "Ruby",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-20T23:45:52Z",
+            "open_issues": 40,
             "owner": "lolcommits",
             "repo": "lolcommits",
-            "stars": 4815
+            "stars": 4815,
+            "topics": [
+              "git",
+              "git-addons",
+              "humor",
+              "selfie",
+              "webcam"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -176,12 +249,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of heated/controversial github discussions",
+            "homepage": null,
             "id": 676617382,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-16T15:17:09Z",
+            "open_issues": 2,
             "owner": "neodrama",
             "repo": "github-drama",
-            "stars": 365
+            "stars": 366,
+            "topics": [
+              "collection",
+              "drama",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -192,12 +274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vanity hex prefixes for your commit SHAs",
+            "homepage": null,
             "id": 131259427,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2019-12-20T07:52:46Z",
+            "open_issues": 4,
             "owner": "mattbaker",
             "repo": "git-vanity-sha",
-            "stars": 301
+            "stars": 301,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -208,12 +295,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stop trying to always blame others and take some responsibility already.",
+            "homepage": null,
             "id": 121970837,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2019-12-24T13:37:13Z",
+            "open_issues": 1,
             "owner": "JacobEvelyn",
             "repo": "git-self-blame",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "blame",
+              "funny",
+              "git",
+              "git-blame",
+              "git-plugin",
+              "humor",
+              "joke",
+              "plugin",
+              "responsibility",
+              "satire"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -224,12 +327,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":notes: Background music for your git commits",
+            "homepage": null,
             "id": 79657596,
             "language": "Shell",
+            "license": null,
             "last_commit": "2017-01-21T18:35:10Z",
+            "open_issues": 0,
             "owner": "mroth",
             "repo": "git-muzak",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "git",
+              "git-addons",
+              "humor"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -240,12 +352,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Have you ever wanted to develop a project, but do like, none of the work? Save time with this tool!",
+            "homepage": null,
             "id": 130539506,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-02-14T08:28:39Z",
+            "open_issues": 0,
             "owner": "alichtman",
             "repo": "i-made-this",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "copyright-infringement",
+              "github",
+              "plagiarism",
+              "satire",
+              "stealing"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -256,12 +379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Action to edit any Issue, Pull Request, or Discussion title with the number 1989 from \"Title\" to \"Title (Taylor's Version).\"",
+            "homepage": null,
             "id": 750475611,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-07T18:01:09Z",
+            "open_issues": 1,
             "owner": "ipc103",
             "repo": "make-it-taylors-version",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         }
@@ -278,12 +406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Based on a true story",
+            "homepage": null,
             "id": 46629305,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-10-23T21:01:40Z",
+            "open_issues": 71,
             "owner": "NARKOZ",
             "repo": "hacker-scripts",
-            "stars": 49813
+            "stars": 49813,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -294,12 +427,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rainbows and unicorns!",
+            "homepage": null,
             "id": 2185269,
             "language": "Ruby",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-03-05T16:19:55Z",
+            "open_issues": 33,
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6567
+            "stars": 6566,
+            "topics": [
+              "cli",
+              "essentials"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -310,12 +451,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐦  Bringing animated parrots to terminals everywhere",
+            "homepage": "http://parrot.live",
             "id": 113147257,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-01-17T10:39:34Z",
+            "open_issues": 3,
             "owner": "hugomd",
             "repo": "parrot.live",
-            "stars": 4468
+            "stars": 4468,
+            "topics": [
+              "curl",
+              "parrot",
+              "party",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -326,12 +477,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extension to parrot.live, with support for more animations! http://ascii.live",
+            "homepage": null,
             "id": 213791587,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2025-05-03T20:25:05Z",
+            "open_issues": 70,
             "owner": "hugomd",
             "repo": "ascii-live",
-            "stars": 1034
+            "stars": 1034,
+            "topics": [
+              "curl",
+              "gif",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -342,12 +502,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The classic cat command but with a cat",
+            "homepage": null,
             "id": 317967142,
             "language": "Shell",
+            "license": null,
             "last_commit": "2020-12-12T09:41:32Z",
+            "open_issues": 1,
             "owner": "GuidoFe",
             "repo": "bash-cat-with-cat",
-            "stars": 203
+            "stars": 202,
+            "topics": [
+              "bash",
+              "bash-alias",
+              "bash-script",
+              "cat",
+              "funny"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         }
@@ -364,12 +535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away",
+            "homepage": null,
             "id": 70100622,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-08T20:35:18Z",
+            "open_issues": 10,
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15696
+            "stars": 15698,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -380,12 +556,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check if a number is equal to 13.",
+            "homepage": null,
             "id": 54572588,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-01-29T13:44:33Z",
+            "open_issues": 419,
             "owner": "jezen",
             "repo": "is-thirteen",
-            "stars": 6182
+            "stars": 6182,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -396,12 +577,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Original Javascript Error Steamroller",
+            "homepage": null,
             "id": 4707611,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-07-01T19:12:04Z",
+            "open_issues": 35,
             "owner": "mattdiamond",
             "repo": "fuckitjs",
-            "stars": 4183
+            "stars": 4183,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -412,12 +598,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Import arbitrary code from Stack Overflow as Python modules.",
+            "homepage": null,
             "id": 72152531,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-09T00:38:40Z",
+            "open_issues": 12,
             "owner": "drathier",
             "repo": "stack-overflow-import",
-            "stars": 3731
+            "stars": 3731,
+            "topics": [
+              "import",
+              "stackoverflow"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -428,12 +622,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Is a number even?",
+            "homepage": null,
             "id": 396604405,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-06T12:41:23Z",
+            "open_issues": 190,
             "owner": "samuelmarina",
             "repo": "is-even",
-            "stars": 2225
+            "stars": 2225,
+            "topics": [
+              "even"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -444,12 +645,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ `std::unique_ptr` that represents each object as an NFT on the Ethereum blockchain",
+            "homepage": "https://worthdoingbadly.com",
             "id": 353568885,
             "language": "Rust",
+            "license": null,
             "last_commit": "2021-05-23T16:54:40Z",
+            "open_issues": 13,
             "owner": "zhuowei",
             "repo": "nft_ptr",
-            "stars": 2025
+            "stars": 2025,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -460,12 +666,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gives you five",
+            "homepage": "https://five.js.org/",
             "id": 21247519,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-16T02:34:59Z",
+            "open_issues": 173,
             "owner": "jackdclark",
             "repo": "five",
-            "stars": 1539
+            "stars": 1540,
+            "topics": [
+              "5",
+              "five"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -476,12 +690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 6554957,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-27T18:59:05Z",
+            "open_issues": 10,
             "owner": "edankwan",
             "repo": "penis.js",
-            "stars": 1364
+            "stars": 1364,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -492,12 +711,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, pragmatic numeric operation api written in PHP. It does addition.",
+            "homepage": null,
             "id": 1144082,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2020-10-02T06:36:38Z",
+            "open_issues": 33,
             "owner": "Herzult",
             "repo": "SimplePHPEasyPlus",
-            "stars": 1156
+            "stars": 1156,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -508,12 +732,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Not the exceptions we need, but the ones we deserve.",
+            "homepage": "https://packagist.org/packages/sgolemon/table-flip",
             "id": 59719001,
             "language": "PHP",
+            "license": null,
             "last_commit": "2017-10-08T15:47:06Z",
+            "open_issues": 1,
             "owner": "sgolemon",
             "repo": "table-flip",
-            "stars": 340
+            "stars": 340,
+            "topics": [
+              "exceptions",
+              "php",
+              "silly"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -524,12 +757,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Encode any IP address as a haiku",
+            "homepage": null,
             "id": 27898489,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-01-31T18:24:52Z",
+            "open_issues": 1,
             "owner": "gabemart",
             "repo": "hipku",
-            "stars": 326
+            "stars": 326,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -540,12 +778,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check if something is a positive number",
+            "homepage": null,
             "id": 36730150,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-06-28T16:41:24Z",
+            "open_issues": 1,
             "owner": "kevva",
             "repo": "is-positive",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -556,12 +799,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A DADA Virus to confuse people",
+            "homepage": "https://matthias-vogt.github.io/DADA.js/",
             "id": 56349210,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2016-04-20T22:48:07Z",
+            "open_issues": 0,
             "owner": "juni-vogt",
             "repo": "DADA.js",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "aesthetic",
+              "annoying",
+              "confusing",
+              "conversion-rate-increaser",
+              "dada",
+              "deutsch",
+              "frustration",
+              "fun",
+              "funny",
+              "growth-hacking",
+              "jquery-plugin",
+              "lol",
+              "synaesthesia",
+              "user-centered-design",
+              "vaporwave",
+              "virus",
+              "what",
+              "what-am-i-doing",
+              "why",
+              "windows98"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -572,12 +841,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "returns false",
+            "homepage": null,
             "id": 847968931,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T16:49:52Z",
+            "open_issues": 0,
             "owner": "10xly",
             "repo": "FalseJS",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "10x",
+              "10x-engineer",
+              "10x-engineered",
+              "10x-ly",
+              "10x-programming",
+              "10xengineer",
+              "10xengineersqualityprogramming",
+              "10xly",
+              "10xlymade",
+              "10xlymadeventures",
+              "10xteam",
+              "awesome",
+              "false",
+              "high-availibility-testing",
+              "i-cant-believe-its-not-rust",
+              "js",
+              "lolite",
+              "needed",
+              "nodejs",
+              "ultimate"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         }
@@ -594,12 +889,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magnificent app which corrects your previous console command.",
+            "homepage": null,
             "id": 33614304,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-19T14:56:13Z",
+            "open_issues": 456,
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97749
+            "stars": 97748,
+            "topics": [
+              "python",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -610,12 +913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.",
+            "homepage": null,
             "id": 6834703,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-07-15T08:04:08Z",
+            "open_issues": 546,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23795
+            "stars": 23795,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -626,12 +934,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anime Girls Holding Programming Books",
+            "homepage": "https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/",
             "id": 90916769,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-10T18:25:25Z",
+            "open_issues": 53,
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22502
+            "stars": 22504,
+            "topics": [
+              "anime"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -642,12 +957,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":see_no_evil: Volkswagen detects when your tests are being run in a CI server, and makes them pass.",
+            "homepage": null,
             "id": 43830564,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-27T07:23:49Z",
+            "open_issues": 23,
             "owner": "auchenberg",
             "repo": "volkswagen",
-            "stars": 15463
+            "stars": 15463,
+            "topics": [
+              "cheat",
+              "ci-server",
+              "continuous-integration",
+              "defeat",
+              "javascipt",
+              "nodejs",
+              "volkswagen"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -658,12 +986,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hide screen when boss is approaching.",
+            "homepage": "http://ahogrammer.com/2016/11/15/deep-learning-enables-you-to-hide-screen-when-your-boss-is-approaching/",
             "id": 62535969,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-10-31T11:42:42Z",
+            "open_issues": 28,
             "owner": "Hironsan",
             "repo": "BossSensor",
-            "stars": 6288
+            "stars": 6288,
+            "topics": [
+              "cnn",
+              "computer-vision",
+              "deep-learning",
+              "machine-learning",
+              "opencv"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -674,12 +1013,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The \"Activate Windows\" watermark ported to Linux",
+            "homepage": null,
             "id": 470739558,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-20T21:03:33Z",
+            "open_issues": 38,
             "owner": "MrGlockenspiel",
             "repo": "activate-linux",
-            "stars": 5934
+            "stars": 5933,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -690,12 +1034,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Grub Theme in the style of Minecraft!",
+            "homepage": null,
             "id": 573559229,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T09:29:43Z",
+            "open_issues": 6,
             "owner": "Lxtharia",
             "repo": "minegrub-theme",
-            "stars": 4596
+            "stars": 4593,
+            "topics": [
+              "grub-theme",
+              "grub-themes",
+              "grub2",
+              "grub2-theme",
+              "grub2-themes",
+              "minecraft"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -706,12 +1062,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "my_first_calculator.py",
+            "homepage": null,
             "id": 58224863,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-04T04:25:52Z",
+            "open_issues": 186,
             "owner": "AceLewis",
             "repo": "my_first_calculator.py",
-            "stars": 4337
+            "stars": 4337,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -722,12 +1083,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":cat: HTTP Cats API",
+            "homepage": "https://http.cat",
             "id": 41638869,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-24T06:57:33Z",
+            "open_issues": 38,
             "owner": "httpcats",
             "repo": "http.cat",
-            "stars": 3686
+            "stars": 3687,
+            "topics": [
+              "api",
+              "cats",
+              "codes",
+              "http",
+              "httpcats",
+              "httpstatuscats",
+              "status"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -738,12 +1112,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀 ",
+            "homepage": "https://ratty-term.org/",
             "id": 1216390615,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-10T03:23:38Z",
+            "open_issues": 42,
             "owner": "orhun",
             "repo": "ratty",
-            "stars": 3209
+            "stars": 3211,
+            "topics": [
+              "3d",
+              "3d-graphics",
+              "command",
+              "gpu",
+              "gpu-rendering",
+              "graphics",
+              "ratatui",
+              "ratty",
+              "rust",
+              "templeos",
+              "terminal",
+              "terminal-emulator",
+              "terminal-emulators",
+              "terminal-graphics"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -754,12 +1148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "revolutionary new technology that turns any image into obama",
+            "homepage": null,
             "id": 1048272688,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-02-02T14:53:30Z",
+            "open_issues": 51,
             "owner": "Spu7Nix",
             "repo": "obamify",
-            "stars": 2112
+            "stars": 2113,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -770,12 +1169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Uma aplicação de linha de comando que liga para alguém tocando o gemidão do Zap",
+            "homepage": null,
             "id": 99598462,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-09-13T14:03:40Z",
+            "open_issues": 28,
             "owner": "haskellcamargo",
             "repo": "gemidao-do-zap",
-            "stars": 1974
+            "stars": 1974,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -786,12 +1190,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dataset of Linus Torvalds' rants classified by negativity using sentiment analysis",
+            "homepage": null,
             "id": 127050290,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-09-15T18:40:24Z",
+            "open_issues": 1,
             "owner": "corollari",
             "repo": "linusrants",
-            "stars": 1880
+            "stars": 1880,
+            "topics": [
+              "dataset",
+              "linus",
+              "linus-rants",
+              "linus-torvalds",
+              "sentiment-analysis"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -802,12 +1217,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Effortlessly transmitting Morse Code of chess moves to your butthole 💝",
+            "homepage": null,
             "id": 541687593,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-02-18T19:38:37Z",
+            "open_issues": 0,
             "owner": "RonSijm",
             "repo": "ButtFish",
-            "stars": 1517
+            "stars": 1517,
+            "topics": [
+              "buttfish",
+              "buttplug",
+              "chess",
+              "csharp",
+              "meme",
+              "morse-code"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -818,12 +1245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My first Tic Tac Toe program. I welcome any code reviews and pull requests!",
+            "homepage": null,
             "id": 46020858,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-05-26T16:52:28Z",
+            "open_issues": 23,
             "owner": "asweigart",
             "repo": "my_first_tic_tac_toe",
-            "stars": 645
+            "stars": 645,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -834,12 +1266,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository with a bunch of funny algorithms, beginners friendly ",
+            "homepage": null,
             "id": 150083876,
             "language": "C++",
+            "license": "CC0-1.0",
             "last_commit": "2026-01-05T15:36:25Z",
+            "open_issues": 124,
             "owner": "ReciHub",
             "repo": "FunnyAlgorithms",
-            "stars": 524
+            "stars": 524,
+            "topics": [
+              "algorithm",
+              "algorithms",
+              "beginners-friendly",
+              "first-timers",
+              "first-timers-friendly",
+              "funny-algorithms",
+              "funny-experiments",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -850,12 +1296,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "It's your fault my site is down.",
+            "homepage": "bitfission.com/redirect_blame",
             "id": 11624586,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-02-09T13:02:15Z",
+            "open_issues": 5,
             "owner": "will",
             "repo": "redirect_blame",
-            "stars": 516
+            "stars": 516,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -866,12 +1317,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👼Polyglot implementations of \"safadeza\" calculus.",
+            "homepage": null,
             "id": 47948272,
             "language": "Elm",
+            "license": null,
             "last_commit": "2020-03-06T22:53:32Z",
+            "open_issues": 8,
             "owner": "ythecombinator",
             "repo": "safadometro",
-            "stars": 217
+            "stars": 217,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -882,12 +1338,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1196516510,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-17T11:08:36Z",
+            "open_issues": 7,
             "owner": "jshchnz",
             "repo": "codemaxxing",
-            "stars": 196
+            "stars": 196,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -898,12 +1359,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "How would it be to have a sexy site to watch UX Videos",
+            "homepage": "https://kikobr.github.io/UXVIDEOS/",
             "id": 103725599,
             "language": "Liquid",
+            "license": null,
             "last_commit": "2023-08-28T16:39:39Z",
+            "open_issues": 0,
             "owner": "kikobr",
             "repo": "UXVIDEOS",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "design",
+              "experience",
+              "funny",
+              "joke",
+              "joke-website",
+              "parody",
+              "user"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -914,12 +1388,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NSA Product Generator!",
+            "homepage": null,
             "id": 15540705,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-04-07T21:26:56Z",
+            "open_issues": 0,
             "owner": "ternus",
             "repo": "nsaproductgenerator",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "humor",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -930,12 +1412,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "It's Gentoo, but for WSL.",
+            "homepage": null,
             "id": 226217049,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-12-04T05:00:06Z",
+            "open_issues": 2,
             "owner": "imaandrew",
             "repo": "GentooWSL",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "gentoo",
+              "wsl"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -946,12 +1436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 229260067,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-12-20T12:23:58Z",
+            "open_issues": 0,
             "owner": "joaogabrielzo",
             "repo": "get-H",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -962,12 +1457,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "656,000+ lines of production-grade enterprise FizzBuzz. 283 infrastructure modules including a hypervisor, CUDA GPU framework, RISC-V simulator, FPGA synthesizer, DNA storage encoder, neuromorphic network, homomorphic encryption, zero-knowledge proofs, and 275 more. All to print Fizz, Buzz, or FizzBuzz.",
+            "homepage": "https://elijah-j.github.io/EnterpriseFizzBuzz/",
             "id": 1188218425,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-29T18:19:06Z",
+            "open_issues": 0,
             "owner": "Elijah-J",
             "repo": "EnterpriseFizzBuzz",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "clean-architecture",
+              "comedy",
+              "enterprise",
+              "fizzbuzz",
+              "overengineering",
+              "parody",
+              "python",
+              "satire",
+              "software-engineering"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -978,12 +1488,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI technical biographer that transforms your GitHub footprint into a professional Persona Audit PDF. Features agentic repository deconstruction and a savage roast mode.",
+            "homepage": null,
             "id": 1136321137,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-21T16:49:25Z",
+            "open_issues": 0,
             "owner": "Pomilon",
             "repo": "Kognit",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "ai-agent",
+              "automation",
+              "github-profile",
+              "pdf-generation",
+              "portfolio-generator",
+              "pydantic-ai",
+              "roast"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         }
@@ -1000,12 +1523,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html",
+            "homepage": null,
             "id": 39785222,
             "language": null,
+            "license": null,
             "last_commit": "2021-08-02T17:04:16Z",
+            "open_issues": 1,
             "owner": "Droogans",
             "repo": "unmaintainable-code",
-            "stars": 10214
+            "stars": 10214,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -1016,12 +1544,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Below are some simple methods for exiting vim.",
+            "homepage": "https://hakluke.com",
             "id": 210854001,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-05T11:33:17Z",
+            "open_issues": 104,
             "owner": "hakluke",
             "repo": "how-to-exit-vim",
-            "stars": 7188
+            "stars": 7188,
+            "topics": [
+              "vim"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -1032,12 +1567,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A compilation of sites with dumb password rules.",
+            "homepage": "https://dumbpasswordrules.com",
             "id": 75543530,
             "language": "Nunjucks",
+            "license": "MIT",
             "last_commit": "2026-08-23T14:29:04Z",
+            "open_issues": 62,
             "owner": "duffn",
             "repo": "dumb-password-rules",
-            "stars": 3024
+            "stars": 3024,
+            "topics": [
+              "hacktoberfest",
+              "passwords",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -1048,12 +1592,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A compendium of absurd \"open-source\" licenses.",
+            "homepage": null,
             "id": 104021152,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2026-06-08T21:24:59Z",
+            "open_issues": 17,
             "owner": "ErikMcClure",
             "repo": "bad-licenses",
-            "stars": 2107
+            "stars": 2107,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -1064,12 +1613,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Technical guide to anal",
+            "homepage": null,
             "id": 417243746,
             "language": "Shell",
+            "license": "Unlicense",
             "last_commit": "2026-05-29T10:57:35Z",
+            "open_issues": 1,
             "owner": "regdude",
             "repo": "anal",
-            "stars": 216
+            "stars": 216,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         }
@@ -1086,12 +1640,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "#DevJoke. Submit a PR if you know a good dev joke. ",
+            "homepage": null,
             "id": 175751187,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-07T01:02:49Z",
+            "open_issues": 163,
             "owner": "shrutikapoor08",
             "repo": "devjoke",
-            "stars": 1054
+            "stars": 1054,
+            "topics": [
+              "developer-jokes",
+              "humor",
+              "jokes",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -1102,12 +1666,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A dataset of 200k English plaintext jokes.",
+            "homepage": null,
             "id": 81943155,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-16T10:22:00Z",
+            "open_issues": 1,
             "owner": "taivop",
             "repo": "joke-dataset",
-            "stars": 633
+            "stars": 633,
+            "topics": [
+              "dataset",
+              "humor",
+              "jokes"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -1118,12 +1691,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python scripts for building 'Short Jokes' dataset, featured on Kaggle",
+            "homepage": null,
             "id": 81136562,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2020-10-01T14:14:39Z",
+            "open_issues": 5,
             "owner": "amoudgl",
             "repo": "short-jokes-dataset",
-            "stars": 286
+            "stars": 286,
+            "topics": [
+              "beautiful-soup",
+              "dataset",
+              "humor",
+              "jokes",
+              "oneliners",
+              "python",
+              "scrapers",
+              "web-scraping"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -1134,12 +1721,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free and open REST API that delivers consistently formatted jokes in JSON, XML, YAML, or plain text – with powerful filters to get just the jokes you want, no sign-up needed.",
+            "homepage": "https://v2.jokeapi.dev",
             "id": 176494253,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-08T01:51:32Z",
+            "open_issues": 47,
             "owner": "Sv443-Network",
             "repo": "JokeAPI",
-            "stars": 282
+            "stars": 282,
+            "topics": [
+              "api",
+              "entertainment",
+              "humor",
+              "humor-api",
+              "joke",
+              "jokes",
+              "jokes-api",
+              "js",
+              "json",
+              "rest-api",
+              "restful-api",
+              "xml",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
         },
@@ -1152,12 +1758,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+                "homepage": "http://e.ee",
                 "id": 156648725,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-07-02T11:23:43Z",
+                "open_issues": 220,
                 "owner": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
                 "repo": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-                "stars": 10563
+                "stars": 10562,
+                "topics": [
+                  "e",
+                  "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+                ]
               },
               "first_seen": "2026-08-28T21:15:28.204Z"
             },
@@ -1168,12 +1782,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "If you fork this then you can say you forked a potato.",
+                "homepage": null,
                 "id": 14253830,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2024-11-21T16:32:05Z",
+                "open_issues": 59,
                 "owner": "drtshock",
                 "repo": "Potato",
-                "stars": 791
+                "stars": 791,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:28.204Z"
             },
@@ -1184,12 +1803,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of websites that tell you to just use the fucking tool.",
+                "homepage": "http://afw.kuber.studio/",
                 "id": 1120243087,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-12-21T13:23:12Z",
+                "open_issues": 1,
                 "owner": "Kuberwastaken",
                 "repo": "awesome-fucking-websites",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "awesome",
+                  "awesome-fucking-websites",
+                  "awesome-list",
+                  "awesome-readme",
+                  "awesomefuckingwebsites",
+                  "justuse",
+                  "motherfuckingwebsite"
+                ]
               },
               "first_seen": "2026-08-28T21:15:28.204Z"
             }
@@ -1203,15 +1835,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:15:28.204Z",
+    "last_updated": "2026-08-29T04:45:35.632Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome hilarious github repositories",
+      "homepage": null,
       "id": 248397539,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-07-17T01:57:26Z",
+      "open_issues": 2,
       "owner": "terremoth",
       "repo": "awesome-hilarious-repos",
-      "stars": 531
+      "stars": 531,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "fun",
+        "funny",
+        "hilarious-github-project",
+        "humor",
+        "shitposting"
+      ]
     },
     "original_repository_sha": "992f5302bf7e33791c3942754cfb9f05d96475a6",
     "enhanced_repository": "enhansome/enhansome-hilarious-repos",
