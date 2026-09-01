@@ -19,7 +19,7 @@
             "open_issues": 4721,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65672,
+            "stars": 65682,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -40,7 +40,7 @@
             "open_issues": 489,
             "owner": "TodePond",
             "repo": "GulfOfMexico",
-            "stars": 13608,
+            "stars": 13609,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -103,7 +103,7 @@
             "open_issues": 21,
             "owner": "emojicode",
             "repo": "emojicode",
-            "stars": 3414,
+            "stars": 3415,
             "topics": [
               "compiler",
               "emojicode",
@@ -210,7 +210,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11705,
+            "stars": 11704,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -227,11 +227,11 @@
             "id": 2499845,
             "language": "Ruby",
             "license": "LGPL-3.0",
-            "last_commit": "2026-08-20T23:45:52Z",
+            "last_commit": "2026-09-01T06:45:53Z",
             "open_issues": 40,
             "owner": "lolcommits",
             "repo": "lolcommits",
-            "stars": 4815,
+            "stars": 4817,
             "topics": [
               "git",
               "git-addons",
@@ -258,7 +258,7 @@
             "open_issues": 2,
             "owner": "neodrama",
             "repo": "github-drama",
-            "stars": 368,
+            "stars": 369,
             "topics": [
               "collection",
               "drama",
@@ -415,7 +415,7 @@
             "open_issues": 71,
             "owner": "NARKOZ",
             "repo": "hacker-scripts",
-            "stars": 49814,
+            "stars": 49815,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -544,7 +544,7 @@
             "open_issues": 10,
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15705,
+            "stars": 15702,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -654,7 +654,7 @@
             "open_issues": 13,
             "owner": "zhuowei",
             "repo": "nft_ptr",
-            "stars": 2025,
+            "stars": 2026,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -898,7 +898,7 @@
             "open_issues": 456,
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97755,
+            "stars": 97761,
             "topics": [
               "python",
               "shell"
@@ -940,10 +940,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-10T18:25:25Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22517,
+            "stars": 22526,
             "topics": [
               "anime"
             ]
@@ -1043,7 +1043,7 @@
             "open_issues": 6,
             "owner": "Lxtharia",
             "repo": "minegrub-theme",
-            "stars": 4597,
+            "stars": 4601,
             "topics": [
               "grub-theme",
               "grub-themes",
@@ -1071,7 +1071,7 @@
             "open_issues": 186,
             "owner": "AceLewis",
             "repo": "my_first_calculator.py",
-            "stars": 4337,
+            "stars": 4338,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1121,7 +1121,7 @@
             "open_issues": 44,
             "owner": "orhun",
             "repo": "ratty",
-            "stars": 3217,
+            "stars": 3218,
             "topics": [
               "3d",
               "3d-graphics",
@@ -1157,7 +1157,7 @@
             "open_issues": 51,
             "owner": "Spu7Nix",
             "repo": "obamify",
-            "stars": 2117,
+            "stars": 2120,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1199,7 +1199,7 @@
             "open_issues": 1,
             "owner": "corollari",
             "repo": "linusrants",
-            "stars": 1880,
+            "stars": 1881,
             "topics": [
               "dataset",
               "linus",
@@ -1532,7 +1532,7 @@
             "open_issues": 1,
             "owner": "Droogans",
             "repo": "unmaintainable-code",
-            "stars": 10211,
+            "stars": 10209,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1835,7 +1835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:43:31.751Z",
+    "last_updated": "2026-09-01T15:14:02.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome hilarious github repositories",
