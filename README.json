@@ -19,7 +19,7 @@
             "open_issues": 4720,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65691,
+            "stars": 65693,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -40,7 +40,7 @@
             "open_issues": 489,
             "owner": "TodePond",
             "repo": "GulfOfMexico",
-            "stars": 13611,
+            "stars": 13612,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -210,7 +210,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11709,
+            "stars": 11708,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -415,7 +415,7 @@
             "open_issues": 71,
             "owner": "NARKOZ",
             "repo": "hacker-scripts",
-            "stars": 49815,
+            "stars": 49818,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -898,7 +898,7 @@
             "open_issues": 456,
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97767,
+            "stars": 97768,
             "topics": [
               "python",
               "shell"
@@ -922,7 +922,7 @@
             "open_issues": 546,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23829,
+            "stars": 23831,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -943,7 +943,7 @@
             "open_issues": 53,
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22543,
+            "stars": 22542,
             "topics": [
               "anime"
             ]
@@ -966,7 +966,7 @@
             "open_issues": 23,
             "owner": "auchenberg",
             "repo": "volkswagen",
-            "stars": 15464,
+            "stars": 15463,
             "topics": [
               "cheat",
               "ci-server",
@@ -1043,7 +1043,7 @@
             "open_issues": 6,
             "owner": "Lxtharia",
             "repo": "minegrub-theme",
-            "stars": 4601,
+            "stars": 4600,
             "topics": [
               "grub-theme",
               "grub-themes",
@@ -1117,11 +1117,11 @@
             "id": 1216390615,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-10T03:23:38Z",
-            "open_issues": 44,
+            "last_commit": "2026-09-05T06:54:06Z",
+            "open_issues": 45,
             "owner": "orhun",
             "repo": "ratty",
-            "stars": 3219,
+            "stars": 3224,
             "topics": [
               "3d",
               "3d-graphics",
@@ -1157,7 +1157,7 @@
             "open_issues": 51,
             "owner": "Spu7Nix",
             "repo": "obamify",
-            "stars": 2124,
+            "stars": 2128,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1347,7 +1347,7 @@
             "open_issues": 7,
             "owner": "jshchnz",
             "repo": "codemaxxing",
-            "stars": 196,
+            "stars": 195,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1601,7 +1601,7 @@
             "open_issues": 18,
             "owner": "ErikMcClure",
             "repo": "bad-licenses",
-            "stars": 2110,
+            "stars": 2109,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1835,7 +1835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:35:11.578Z",
+    "last_updated": "2026-09-05T13:34:35.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome hilarious github repositories",
