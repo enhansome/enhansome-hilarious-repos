@@ -2,16 +2,16 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![license](https://img.shields.io/github/license/terremoth/awesome-hilarious-repos.svg)](/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/terremoth/awesome-hilarious-repos.svg)](https://github.com/terremoth/awesome-hilarious-repos/graphs/contributors) ⭐ 530 | 🐛 2 | 📅 2026-07-17
+[![GitHub contributors](https://img.shields.io/github/contributors/terremoth/awesome-hilarious-repos.svg)](https://github.com/terremoth/awesome-hilarious-repos/graphs/contributors) ⭐ 531 | 🐛 1 | 📅 2026-07-17
 
 List of all (?) available and funniest GitHub repos. Contribute if you know others!
 
 ## Programming Languages
 
-* [nocode](https://github.com/kelseyhightower/nocode) ⭐ 65,719 | 🐛 4,719 | 🌐 Dockerfile | 📅 2024-08-07 - ` `
+* [nocode](https://github.com/kelseyhightower/nocode) ⭐ 65,721 | 🐛 4,719 | 🌐 Dockerfile | 📅 2024-08-07 - ` `
 * [GulfOfMexico](https://github.com/TodePond/GulfOfMexico) ⭐ 13,613 | 🐛 488 | 📅 2026-01-20 - The Perfect Programming Language
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) ⚠️ Archived - Donald Trump's programming language?
-* [ArnoldC](https://github.com/lhartikk/ArnoldC) ⭐ 6,883 | 🐛 73 | 🌐 Scala | 📅 2024-01-31 - Programming language based on the one-liners of Arnold Schwarzenegger.
+* [ArnoldC](https://github.com/lhartikk/ArnoldC) ⭐ 6,881 | 🐛 73 | 🌐 Scala | 📅 2024-01-31 - Programming language based on the one-liners of Arnold Schwarzenegger.
 * [Emojicode](https://github.com/emojicode/emojicode) ⭐ 3,415 | 🐛 21 | 🌐 C | 📅 2023-08-07 - the emoji programming language
 * [BIIIIIIRLL programming language](https://github.com/birl-language/birl-language.github.io) ⭐ 941 | 🐛 26 | 🌐 JavaScript | 📅 2018-09-02 - Bambam's "It's show time" Recursive Language
 * [DreamBerd programming language](https://github.com/TodePond/C) ⭐ 96 | 🐛 1 | 📅 2023-09-01 - If the link doesn't work, try [this](https://github.com/TodePond/DreamBerd) ⭐ 13,613 | 🐛 488 | 📅 2026-01-20
@@ -20,7 +20,7 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 ## Git Related
 
 * [Git Blame Someone Else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,710 | 🐛 21 | 🌐 Shell | 📅 2023-12-04 - Blame someone else for your bad code. - Linus Torvalds
-* [lolcommits](https://github.com/lolcommits/lolcommits) ⭐ 4,819 | 🐛 40 | 🌐 Ruby | 📅 2026-09-05 - takes a snapshot with your webcam every time you git commit code, and archives a lolcat style image with it!
+* [lolcommits](https://github.com/lolcommits/lolcommits) ⭐ 4,819 | 🐛 40 | 🌐 Ruby | 📅 2026-09-11 - takes a snapshot with your webcam every time you git commit code, and archives a lolcat style image with it!
 * [GitHub Drama](https://github.com/neodrama/github-drama) ⭐ 369 | 🐛 2 | 📅 2026-08-16 - lists of dramatic github discussions, lol
 * [Git-vanity-sha](https://github.com/mattbaker/git-vanity-sha) ⭐ 301 | 🐛 4 | 🌐 Ruby | 📅 2019-12-20 - try to tweak the last commit commiter's timestamp to create a commit SHA using the hex prefix you supply
 * [Git-self-blame](https://github.com/JacobEvelyn/git-self-blame) ⭐ 188 | 🐛 1 | 🌐 Shell | 📅 2019-12-24 - is a simple git plugin that lets you take the blame for code you didn't write!!!
@@ -30,9 +30,9 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 
 ## Command line utilities scripts
 
-* [Automated Hacker Scripts](https://github.com/NARKOZ/hacker-scripts) ⭐ 49,821 | 🐛 71 | 🌐 JavaScript | 📅 2023-10-23 - if you like automation, this one is for you
+* [Automated Hacker Scripts](https://github.com/NARKOZ/hacker-scripts) ⭐ 49,823 | 🐛 71 | 🌐 JavaScript | 📅 2023-10-23 - if you like automation, this one is for you
 * [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,573 | 🐛 33 | 🌐 Ruby | 📅 2024-03-05 - rainbows your terminal output!
-* [parrot.live](https://github.com/hugomd/parrot.live) ⭐ 4,471 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-17 - Run `curl parrot.live` to start a party!
+* [parrot.live](https://github.com/hugomd/parrot.live) ⭐ 4,472 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-17 - Run `curl parrot.live` to start a party!
 * [ascii-live](https://github.com/hugomd/ascii-live) ⭐ 1,043 | 🐛 72 | 🌐 Go | 📅 2025-05-03 - Curl-based animations
 * [Bash Cat With Cat](https://github.com/GuidoFe/bash-cat-with-cat) ⭐ 202 | 🐛 1 | 🌐 Shell | 📅 2020-12-12 - The classic cat command but with a cat
 
@@ -56,13 +56,13 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 
 ## Standalone projects
 
-* [The fuck](https://github.com/nvbn/thefuck) ⭐ 97,801 | 🐛 457 | 🌐 Python | 📅 2024-07-19 - magnificent app, that corrects errors in previous console commands
+* [The fuck](https://github.com/nvbn/thefuck) ⭐ 97,842 | 🐛 457 | 🌐 Python | 📅 2024-07-19 - magnificent app, that corrects errors in previous console commands
 * [FizzBuzz Enterprise edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,854 | 🐛 546 | 🌐 Java | 📅 2024-07-15 - following all possible standards and patterns to write a FizzBuzz
-* [Anime Girls Holding Programmings books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) ⭐ 22,565 | 🐛 53 | 📅 2026-03-10 Anime Girls Holding Programming Books in every programming language. That is all.
+* [Anime Girls Holding Programmings books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) ⭐ 22,568 | 🐛 53 | 📅 2026-03-10 Anime Girls Holding Programming Books in every programming language. That is all.
 * [volkswagen](https://github.com/auchenberg/volkswagen) ⭐ 15,465 | 🐛 23 | 🌐 JavaScript | 📅 2026-02-27 - Volkswagen detects when your tests are being run in a CI server, and makes them pass!!!
 * [BossSensor](https://github.com/Hironsan/BossSensor) ⭐ 6,289 | 🐛 28 | 🌐 Python | 📅 2018-10-31 - change the screen when your boss is approaching
-* [Activate Linux Desktop Message - like Windows](https://github.com/MrGlockenspiel/activate-linux) ⭐ 5,940 | 🐛 38 | 🌐 C | 📅 2026-07-20 - Why not?????????
-* [Minegrub](https://github.com/Lxtharia/minegrub-theme) ⭐ 4,600 | 🐛 7 | 🌐 Python | 📅 2026-08-27 - A Grub Theme in the style of Minecraft! (this pearson is a genius)
+* [Activate Linux Desktop Message - like Windows](https://github.com/MrGlockenspiel/activate-linux) ⭐ 5,941 | 🐛 38 | 🌐 C | 📅 2026-07-20 - Why not?????????
+* [Minegrub](https://github.com/Lxtharia/minegrub-theme) ⭐ 4,599 | 🐛 7 | 🌐 Python | 📅 2026-08-27 - A Grub Theme in the style of Minecraft! (this pearson is a genius)
 * [my\_first\_calculator](https://github.com/AceLewis/my_first_calculator.py) ⭐ 4,338 | 🐛 186 | 🌐 Python | 📅 2024-08-04 - the BEST way EVER to build command line calculators, look the source code
 * [http cats api](https://github.com/httpcats/http.cat) ⭐ 3,695 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-11 - You can use cats instead of HTTP errors
 * [ratty](https://github.com/orhun/ratty) ⭐ 3,231 | 🐛 46 | 🌐 Rust | 📅 2026-09-09 - a terminal for rodents 🐀🧀
@@ -86,8 +86,8 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 
 * [Unmaintainable Code](https://github.com/Droogans/unmaintainable-code) ⭐ 10,210 | 🐛 1 | 📅 2021-08-02 - Patterns to (un)maintain your software projects
 * [How To Exit Vim](https://github.com/hakluke/how-to-exit-vim) ⭐ 7,191 | 🐛 105 | 📅 2026-08-05, check also [VIMKiller](https://github.com/caseykneale/VIMKiller) ⭐ 1,238 | 🐛 15 | 🌐 Julia | 📅 2025-02-07!
-* [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) ⭐ 3,022 | 🐛 62 | 🌐 Nunjucks | 📅 2026-09-08 - The best rules to create passwords!!1!1
-* [Bad Licenses](https://github.com/ErikMcClure/bad-licenses) ⭐ 2,111 | 🐛 18 | 📅 2026-06-08 - A compendium of absurd, funny, and downright bad licenses
+* [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) ⭐ 3,021 | 🐛 62 | 🌐 Nunjucks | 📅 2026-09-08 - The best rules to create passwords!!1!1
+* [Bad Licenses](https://github.com/ErikMcClure/bad-licenses) ⭐ 2,110 | 🐛 18 | 📅 2026-06-08 - A compendium of absurd, funny, and downright bad licenses
 * [Anal Guide](https://github.com/regdude/anal) ⭐ 218 | 🐛 1 | 🌐 Shell | 📅 2026-05-29 - A comprehensive technical guide regarding anal sex.
 
 ## Dev Jokes collection (datasets)
@@ -105,4 +105,4 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
