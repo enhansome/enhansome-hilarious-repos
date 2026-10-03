@@ -412,10 +412,10 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2023-10-23T21:01:40Z",
-            "open_issues": 71,
+            "open_issues": 72,
             "owner": "NARKOZ",
             "repo": "hacker-scripts",
-            "stars": 49845,
+            "stars": 49844,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -699,7 +699,7 @@
             "open_issues": 10,
             "owner": "edankwan",
             "repo": "penis.js",
-            "stars": 1364,
+            "stars": 1363,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -922,7 +922,7 @@
             "open_issues": 547,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23883,
+            "stars": 23884,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -943,7 +943,7 @@
             "open_issues": 60,
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22626,
+            "stars": 22628,
             "topics": [
               "anime"
             ]
@@ -995,7 +995,7 @@
             "open_issues": 28,
             "owner": "Hironsan",
             "repo": "BossSensor",
-            "stars": 6292,
+            "stars": 6291,
             "topics": [
               "cnn",
               "computer-vision",
@@ -1022,7 +1022,7 @@
             "open_issues": 38,
             "owner": "MrGlockenspiel",
             "repo": "activate-linux",
-            "stars": 5966,
+            "stars": 5965,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1092,7 +1092,7 @@
             "open_issues": 38,
             "owner": "httpcats",
             "repo": "http.cat",
-            "stars": 3710,
+            "stars": 3711,
             "topics": [
               "api",
               "cats",
@@ -1121,7 +1121,7 @@
             "open_issues": 44,
             "owner": "orhun",
             "repo": "ratty",
-            "stars": 3261,
+            "stars": 3262,
             "topics": [
               "3d",
               "3d-graphics",
@@ -1178,7 +1178,7 @@
             "open_issues": 28,
             "owner": "haskellcamargo",
             "repo": "gemidao-do-zap",
-            "stars": 1975,
+            "stars": 1974,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1572,7 +1572,7 @@
             "id": 75543530,
             "language": "Nunjucks",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:24:09Z",
+            "last_commit": "2026-10-03T12:44:20Z",
             "open_issues": 63,
             "owner": "duffn",
             "repo": "dumb-password-rules",
@@ -1835,7 +1835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:49:47.162Z",
+    "last_updated": "2026-10-03T14:57:08.562Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome hilarious github repositories",
