@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "nocode",
-          "description": null,
+          "description": "kelseyhightower/nocode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 4722,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65856,
+            "stars": 65855,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -40,7 +40,7 @@
             "open_issues": 489,
             "owner": "TodePond",
             "repo": "GulfOfMexico",
-            "stars": 13606,
+            "stars": 13607,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -415,7 +415,7 @@
             "open_issues": 71,
             "owner": "NARKOZ",
             "repo": "hacker-scripts",
-            "stars": 49844,
+            "stars": 49845,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -586,7 +586,7 @@
             "open_issues": 35,
             "owner": "mattdiamond",
             "repo": "fuckitjs",
-            "stars": 4184,
+            "stars": 4183,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -631,7 +631,7 @@
             "open_issues": 193,
             "owner": "samuelmarina",
             "repo": "is-even",
-            "stars": 2227,
+            "stars": 2229,
             "topics": [
               "even"
             ]
@@ -720,7 +720,7 @@
             "open_issues": 33,
             "owner": "Herzult",
             "repo": "SimplePHPEasyPlus",
-            "stars": 1157,
+            "stars": 1158,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -943,7 +943,7 @@
             "open_issues": 60,
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22624,
+            "stars": 22626,
             "topics": [
               "anime"
             ]
@@ -1043,7 +1043,7 @@
             "open_issues": 7,
             "owner": "Lxtharia",
             "repo": "minegrub-theme",
-            "stars": 4620,
+            "stars": 4619,
             "topics": [
               "grub-theme",
               "grub-themes",
@@ -1157,7 +1157,7 @@
             "open_issues": 51,
             "owner": "Spu7Nix",
             "repo": "obamify",
-            "stars": 2164,
+            "stars": 2166,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1466,7 +1466,7 @@
             "open_issues": 0,
             "owner": "Elijah-J",
             "repo": "EnterpriseFizzBuzz",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "clean-architecture",
               "comedy",
@@ -1601,7 +1601,7 @@
             "open_issues": 9,
             "owner": "ErikMcClure",
             "repo": "bad-licenses",
-            "stars": 2121,
+            "stars": 2120,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1636,7 +1636,7 @@
         {
           "node_type": "item",
           "title": "shrutikapoor08/devjoke",
-          "description": null,
+          "description": "shrutikapoor08/devjoke",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1662,7 +1662,7 @@
         {
           "node_type": "item",
           "title": "taivop/joke-dataset",
-          "description": null,
+          "description": "taivop/joke-dataset",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1675,7 +1675,7 @@
             "open_issues": 1,
             "owner": "taivop",
             "repo": "joke-dataset",
-            "stars": 633,
+            "stars": 630,
             "topics": [
               "dataset",
               "humor",
@@ -1687,7 +1687,7 @@
         {
           "node_type": "item",
           "title": "amoudgl/short-jokes-dataset",
-          "description": null,
+          "description": "amoudgl/short-jokes-dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1717,7 +1717,7 @@
         {
           "node_type": "item",
           "title": "Sv443-Network/JokeAPI",
-          "description": null,
+          "description": "Sv443-Network/JokeAPI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1754,7 +1754,7 @@
             {
               "node_type": "item",
               "title": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-              "description": null,
+              "description": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1835,7 +1835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:23:15.730Z",
+    "last_updated": "2026-10-03T04:49:47.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome hilarious github repositories",
@@ -1847,7 +1847,7 @@
       "open_issues": 1,
       "owner": "terremoth",
       "repo": "awesome-hilarious-repos",
-      "stars": 532,
+      "stars": 533,
       "topics": [
         "awesome",
         "awesome-list",
