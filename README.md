@@ -8,13 +8,13 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 
 ## Programming Languages
 
-* [nocode](https://github.com/kelseyhightower/nocode) ⭐ 65,912 | 🐛 4,723 | 🌐 Dockerfile | 📅 2024-08-07 - ` `
-* [GulfOfMexico](https://github.com/TodePond/GulfOfMexico) ⭐ 13,613 | 🐛 487 | 📅 2026-10-10 - The Perfect Programming Language
+* [nocode](https://github.com/kelseyhightower/nocode) ⭐ 65,914 | 🐛 4,723 | 🌐 Dockerfile | 📅 2024-08-07 - ` `
+* [GulfOfMexico](https://github.com/TodePond/GulfOfMexico) ⭐ 13,612 | 🐛 487 | 📅 2026-10-10 - The Perfect Programming Language
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) ⚠️ Archived - Donald Trump's programming language?
-* [ArnoldC](https://github.com/lhartikk/ArnoldC) ⭐ 6,887 | 🐛 73 | 🌐 Scala | 📅 2024-01-31 - Programming language based on the one-liners of Arnold Schwarzenegger.
+* [ArnoldC](https://github.com/lhartikk/ArnoldC) ⭐ 6,886 | 🐛 73 | 🌐 Scala | 📅 2024-01-31 - Programming language based on the one-liners of Arnold Schwarzenegger.
 * [Emojicode](https://github.com/emojicode/emojicode) ⭐ 3,418 | 🐛 22 | 🌐 C | 📅 2023-08-07 - the emoji programming language
 * [BIIIIIIRLL programming language](https://github.com/birl-language/birl-language.github.io) ⭐ 940 | 🐛 26 | 🌐 JavaScript | 📅 2018-09-02 - Bambam's "It's show time" Recursive Language
-* [DreamBerd programming language](https://github.com/TodePond/C) ⭐ 96 | 🐛 1 | 📅 2023-09-01 - If the link doesn't work, try [this](https://github.com/TodePond/DreamBerd) ⭐ 13,613 | 🐛 487 | 📅 2026-10-10
+* [DreamBerd programming language](https://github.com/TodePond/C) ⭐ 96 | 🐛 1 | 📅 2023-09-01 - If the link doesn't work, try [this](https://github.com/TodePond/DreamBerd) ⭐ 13,612 | 🐛 487 | 📅 2026-10-10
 * [UwU](https://github.com/PhoenXHO/UwU) ⭐ 13 | 🐛 0 | 🌐 C++ | 📅 2023-11-20 - UwU is an esoteric dynamically-typed programming language.
 
 ## Git Related
@@ -30,9 +30,9 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 
 ## Command line utilities scripts
 
-* [Automated Hacker Scripts](https://github.com/NARKOZ/hacker-scripts) ⭐ 49,849 | 🐛 72 | 🌐 JavaScript | 📅 2023-10-23 - if you like automation, this one is for you
-* [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,586 | 🐛 33 | 🌐 Ruby | 📅 2024-03-05 - rainbows your terminal output!
-* [parrot.live](https://github.com/hugomd/parrot.live) ⭐ 4,479 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-17 - Run `curl parrot.live` to start a party!
+* [Automated Hacker Scripts](https://github.com/NARKOZ/hacker-scripts) ⭐ 49,852 | 🐛 72 | 🌐 JavaScript | 📅 2023-10-23 - if you like automation, this one is for you
+* [lolcat](https://github.com/busyloop/lolcat) ⭐ 6,587 | 🐛 33 | 🌐 Ruby | 📅 2024-03-05 - rainbows your terminal output!
+* [parrot.live](https://github.com/hugomd/parrot.live) ⭐ 4,478 | 🐛 4 | 🌐 JavaScript | 📅 2026-01-17 - Run `curl parrot.live` to start a party!
 * [ascii-live](https://github.com/hugomd/ascii-live) ⭐ 1,060 | 🐛 1 | 🌐 Go | 📅 2026-10-12 - Curl-based animations
 * [Bash Cat With Cat](https://github.com/GuidoFe/bash-cat-with-cat) ⭐ 202 | 🐛 1 | 🌐 Shell | 📅 2020-12-12 - The classic cat command but with a cat
 
@@ -56,17 +56,17 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 
 ## Standalone projects
 
-* [The fuck](https://github.com/nvbn/thefuck) ⭐ 97,907 | 🐛 461 | 🌐 Python | 📅 2024-07-19 - magnificent app, that corrects errors in previous console commands
+* [The fuck](https://github.com/nvbn/thefuck) ⭐ 97,910 | 🐛 461 | 🌐 Python | 📅 2024-07-19 - magnificent app, that corrects errors in previous console commands
 * [FizzBuzz Enterprise edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) ⭐ 23,902 | 🐛 547 | 🌐 Java | 📅 2024-07-15 - following all possible standards and patterns to write a FizzBuzz
 * [Anime Girls Holding Programmings books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) ⭐ 22,638 | 🐛 59 | 📅 2026-03-10 Anime Girls Holding Programming Books in every programming language. That is all.
 * [volkswagen](https://github.com/auchenberg/volkswagen) ⭐ 15,463 | 🐛 23 | 🌐 JavaScript | 📅 2026-02-27 - Volkswagen detects when your tests are being run in a CI server, and makes them pass!!!
-* [BossSensor](https://github.com/Hironsan/BossSensor) ⭐ 6,291 | 🐛 28 | 🌐 Python | 📅 2018-10-31 - change the screen when your boss is approaching
-* [Activate Linux Desktop Message - like Windows](https://github.com/MrGlockenspiel/activate-linux) ⭐ 6,014 | 🐛 39 | 🌐 C | 📅 2026-07-20 - Why not?????????
+* [BossSensor](https://github.com/Hironsan/BossSensor) ⭐ 6,290 | 🐛 28 | 🌐 Python | 📅 2018-10-31 - change the screen when your boss is approaching
+* [Activate Linux Desktop Message - like Windows](https://github.com/MrGlockenspiel/activate-linux) ⭐ 6,017 | 🐛 39 | 🌐 C | 📅 2026-07-20 - Why not?????????
 * [Minegrub](https://github.com/Lxtharia/minegrub-theme) ⭐ 4,630 | 🐛 7 | 🌐 Python | 📅 2026-10-08 - A Grub Theme in the style of Minecraft! (this pearson is a genius)
-* [my\_first\_calculator](https://github.com/AceLewis/my_first_calculator.py) ⭐ 4,342 | 🐛 185 | 🌐 Python | 📅 2024-08-04 - the BEST way EVER to build command line calculators, look the source code
+* [my\_first\_calculator](https://github.com/AceLewis/my_first_calculator.py) ⭐ 4,343 | 🐛 186 | 🌐 Python | 📅 2024-08-04 - the BEST way EVER to build command line calculators, look the source code
 * [http cats api](https://github.com/httpcats/http.cat) ⭐ 3,720 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-11 - You can use cats instead of HTTP errors
-* [ratty](https://github.com/orhun/ratty) ⭐ 3,278 | 🐛 39 | 🌐 Rust | 📅 2026-10-11 - a terminal for rodents 🐀🧀
-* [Obamify](https://github.com/Spu7Nix/obamify) ⭐ 2,171 | 🐛 52 | 🌐 Rust | 📅 2026-02-02 - "revolutionary new technology that turns any image into Obama"
+* [ratty](https://github.com/orhun/ratty) ⭐ 3,280 | 🐛 39 | 🌐 Rust | 📅 2026-10-11 - a terminal for rodents 🐀🧀
+* [Obamify](https://github.com/Spu7Nix/obamify) ⭐ 2,172 | 🐛 52 | 🌐 Rust | 📅 2026-02-02 - "revolutionary new technology that turns any image into Obama"
 * [Gemidão do Zap caller](https://github.com/haskellcamargo/gemidao-do-zap) ⭐ 1,975 | 🐛 28 | 🌐 JavaScript | 📅 2018-09-13 - call people and perform Alexis Texas famous moaning "aaaawnn awwwnnn"
 * [linusrants](https://github.com/corollari/linusrants) ⭐ 1,893 | 🐛 0 | 🌐 Python | 📅 2020-09-15 - Linus' rants classified by amount of hate.
 * [ButtFish](https://github.com/RonSijm/ButtFish) ⭐ 1,518 | 🐛 0 | 🌐 C# | 📅 2026-02-18 - Transmitting Morse Code of chess moves to your butthole ([explanation](https://www.reddit.com/r/HobbyDrama/comments/10tin5t/chess_go_shove_it_up_your_ass_the_story_of_hans/))
@@ -85,9 +85,9 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 ## Rules, Advices, Licenses, Standards & Patterns
 
 * [Unmaintainable Code](https://github.com/Droogans/unmaintainable-code) ⭐ 10,210 | 🐛 1 | 📅 2021-08-02 - Patterns to (un)maintain your software projects
-* [How To Exit Vim](https://github.com/hakluke/how-to-exit-vim) ⭐ 7,193 | 🐛 103 | 📅 2026-08-05, check also [VIMKiller](https://github.com/caseykneale/VIMKiller) ⭐ 1,239 | 🐛 15 | 🌐 Julia | 📅 2025-02-07!
+* [How To Exit Vim](https://github.com/hakluke/how-to-exit-vim) ⭐ 7,194 | 🐛 103 | 📅 2026-08-05, check also [VIMKiller](https://github.com/caseykneale/VIMKiller) ⭐ 1,239 | 🐛 15 | 🌐 Julia | 📅 2025-02-07!
 * [Dumb Password Rules](https://github.com/dumb-password-rules/dumb-password-rules) ⭐ 3,022 | 🐛 63 | 🌐 Nunjucks | 📅 2026-10-12 - The best rules to create passwords!!1!1
-* [Bad Licenses](https://github.com/ErikMcClure/bad-licenses) ⭐ 2,131 | 🐛 10 | 📅 2026-09-26 - A compendium of absurd, funny, and downright bad licenses
+* [Bad Licenses](https://github.com/ErikMcClure/bad-licenses) ⭐ 2,133 | 🐛 10 | 📅 2026-09-26 - A compendium of absurd, funny, and downright bad licenses
 * [Anal Guide](https://github.com/regdude/anal) ⭐ 222 | 🐛 0 | 🌐 Shell | 📅 2026-10-06 - A comprehensive technical guide regarding anal sex.
 
 ## Dev Jokes collection (datasets)
@@ -105,4 +105,4 @@ List of all (?) available and funniest GitHub repos. Contribute if you know othe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
