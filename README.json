@@ -16,10 +16,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4722,
+            "open_issues": 4724,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65946,
+            "stars": 65950,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -40,7 +40,7 @@
             "open_issues": 488,
             "owner": "TodePond",
             "repo": "GulfOfMexico",
-            "stars": 13620,
+            "stars": 13624,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -210,7 +210,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11719,
+            "stars": 11721,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -415,7 +415,7 @@
             "open_issues": 72,
             "owner": "NARKOZ",
             "repo": "hacker-scripts",
-            "stars": 49849,
+            "stars": 49853,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -436,7 +436,7 @@
             "open_issues": 33,
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6586,
+            "stars": 6585,
             "topics": [
               "cli",
               "essentials"
@@ -544,7 +544,7 @@
             "open_issues": 10,
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15700,
+            "stars": 15699,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -631,7 +631,7 @@
             "open_issues": 195,
             "owner": "samuelmarina",
             "repo": "is-even",
-            "stars": 2235,
+            "stars": 2236,
             "topics": [
               "even"
             ]
@@ -922,7 +922,7 @@
             "open_issues": 547,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23911,
+            "stars": 23915,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -943,7 +943,7 @@
             "open_issues": 61,
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22634,
+            "stars": 22632,
             "topics": [
               "anime"
             ]
@@ -966,7 +966,7 @@
             "open_issues": 23,
             "owner": "auchenberg",
             "repo": "volkswagen",
-            "stars": 15463,
+            "stars": 15464,
             "topics": [
               "cheat",
               "ci-server",
@@ -1071,7 +1071,7 @@
             "open_issues": 186,
             "owner": "AceLewis",
             "repo": "my_first_calculator.py",
-            "stars": 4342,
+            "stars": 4343,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1092,7 +1092,7 @@
             "open_issues": 32,
             "owner": "httpcats",
             "repo": "http.cat",
-            "stars": 3723,
+            "stars": 3725,
             "topics": [
               "api",
               "cats",
@@ -1121,7 +1121,7 @@
             "open_issues": 39,
             "owner": "orhun",
             "repo": "ratty",
-            "stars": 3288,
+            "stars": 3290,
             "topics": [
               "3d",
               "3d-graphics",
@@ -1157,7 +1157,7 @@
             "open_issues": 52,
             "owner": "Spu7Nix",
             "repo": "obamify",
-            "stars": 2177,
+            "stars": 2178,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1271,8 +1271,8 @@
             "id": 150083876,
             "language": "C++",
             "license": "CC0-1.0",
-            "last_commit": "2026-01-05T15:36:25Z",
-            "open_issues": 124,
+            "last_commit": "2026-10-22T19:04:25Z",
+            "open_issues": 123,
             "owner": "ReciHub",
             "repo": "FunnyAlgorithms",
             "stars": 532,
@@ -1767,7 +1767,7 @@
                 "open_issues": 220,
                 "owner": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
                 "repo": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-                "stars": 10548,
+                "stars": 10547,
                 "topics": [
                   "e",
                   "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
@@ -1835,7 +1835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T15:41:37.085Z",
+    "last_updated": "2026-10-23T15:29:31.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome hilarious github repositories",
