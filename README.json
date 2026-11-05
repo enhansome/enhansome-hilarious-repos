@@ -19,7 +19,7 @@
             "open_issues": 4725,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 65998,
+            "stars": 66001,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -40,7 +40,7 @@
             "open_issues": 488,
             "owner": "TodePond",
             "repo": "GulfOfMexico",
-            "stars": 13628,
+            "stars": 13627,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -210,7 +210,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11725,
+            "stars": 11726,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -415,7 +415,7 @@
             "open_issues": 72,
             "owner": "NARKOZ",
             "repo": "hacker-scripts",
-            "stars": 49859,
+            "stars": 49858,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -436,7 +436,7 @@
             "open_issues": 32,
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6584,
+            "stars": 6583,
             "topics": [
               "cli",
               "essentials"
@@ -460,7 +460,7 @@
             "open_issues": 4,
             "owner": "hugomd",
             "repo": "parrot.live",
-            "stars": 4491,
+            "stars": 4493,
             "topics": [
               "curl",
               "parrot",
@@ -544,7 +544,7 @@
             "open_issues": 10,
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15696,
+            "stars": 15694,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -898,7 +898,7 @@
             "open_issues": 470,
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97944,
+            "stars": 97943,
             "topics": [
               "python",
               "shell"
@@ -922,7 +922,7 @@
             "open_issues": 548,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23935,
+            "stars": 23938,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -943,7 +943,7 @@
             "open_issues": 61,
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22660,
+            "stars": 22662,
             "topics": [
               "anime"
             ]
@@ -1022,7 +1022,7 @@
             "open_issues": 40,
             "owner": "MrGlockenspiel",
             "repo": "activate-linux",
-            "stars": 6029,
+            "stars": 6028,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1088,11 +1088,11 @@
             "id": 41638869,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T18:59:45Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-05T07:21:53Z",
+            "open_issues": 24,
             "owner": "httpcats",
             "repo": "http.cat",
-            "stars": 3733,
+            "stars": 3734,
             "topics": [
               "api",
               "cats",
@@ -1121,7 +1121,7 @@
             "open_issues": 41,
             "owner": "orhun",
             "repo": "ratty",
-            "stars": 3320,
+            "stars": 3322,
             "topics": [
               "3d",
               "3d-graphics",
@@ -1157,7 +1157,7 @@
             "open_issues": 52,
             "owner": "Spu7Nix",
             "repo": "obamify",
-            "stars": 2189,
+            "stars": 2188,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1199,7 +1199,7 @@
             "open_issues": 0,
             "owner": "corollari",
             "repo": "linusrants",
-            "stars": 1900,
+            "stars": 1901,
             "topics": [
               "dataset",
               "linus",
@@ -1553,7 +1553,7 @@
             "open_issues": 103,
             "owner": "hakluke",
             "repo": "how-to-exit-vim",
-            "stars": 7192,
+            "stars": 7191,
             "topics": [
               "vim"
             ]
@@ -1598,10 +1598,10 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-09-26T01:37:09Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "ErikMcClure",
             "repo": "bad-licenses",
-            "stars": 2138,
+            "stars": 2140,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1791,7 +1791,7 @@
                 "open_issues": 60,
                 "owner": "drtshock",
                 "repo": "Potato",
-                "stars": 796,
+                "stars": 797,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1835,7 +1835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:15:23.503Z",
+    "last_updated": "2026-11-05T18:20:40.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome hilarious github repositories",
