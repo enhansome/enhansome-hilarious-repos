@@ -16,10 +16,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4728,
+            "open_issues": 4729,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 66035,
+            "stars": 66039,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -210,7 +210,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11726,
+            "stars": 11727,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -231,7 +231,7 @@
             "open_issues": 40,
             "owner": "lolcommits",
             "repo": "lolcommits",
-            "stars": 4817,
+            "stars": 4818,
             "topics": [
               "git",
               "git-addons",
@@ -415,7 +415,7 @@
             "open_issues": 72,
             "owner": "NARKOZ",
             "repo": "hacker-scripts",
-            "stars": 49865,
+            "stars": 49867,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -436,7 +436,7 @@
             "open_issues": 32,
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6584,
+            "stars": 6585,
             "topics": [
               "cli",
               "essentials"
@@ -460,7 +460,7 @@
             "open_issues": 4,
             "owner": "hugomd",
             "repo": "parrot.live",
-            "stars": 4494,
+            "stars": 4495,
             "topics": [
               "curl",
               "parrot",
@@ -544,7 +544,7 @@
             "open_issues": 10,
             "owner": "kleampa",
             "repo": "not-paid",
-            "stars": 15694,
+            "stars": 15695,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -565,7 +565,7 @@
             "open_issues": 418,
             "owner": "jezen",
             "repo": "is-thirteen",
-            "stars": 6176,
+            "stars": 6177,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -720,7 +720,7 @@
             "open_issues": 33,
             "owner": "Herzult",
             "repo": "SimplePHPEasyPlus",
-            "stars": 1159,
+            "stars": 1160,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -741,7 +741,7 @@
             "open_issues": 1,
             "owner": "sgolemon",
             "repo": "table-flip",
-            "stars": 341,
+            "stars": 342,
             "topics": [
               "exceptions",
               "php",
@@ -898,7 +898,7 @@
             "open_issues": 470,
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97946,
+            "stars": 97951,
             "topics": [
               "python",
               "shell"
@@ -943,7 +943,7 @@
             "open_issues": 61,
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22662,
+            "stars": 22663,
             "topics": [
               "anime"
             ]
@@ -995,7 +995,7 @@
             "open_issues": 28,
             "owner": "Hironsan",
             "repo": "BossSensor",
-            "stars": 6290,
+            "stars": 6291,
             "topics": [
               "cnn",
               "computer-vision",
@@ -1022,7 +1022,7 @@
             "open_issues": 40,
             "owner": "MrGlockenspiel",
             "repo": "activate-linux",
-            "stars": 6035,
+            "stars": 6034,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1088,11 +1088,11 @@
             "id": 41638869,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T07:21:53Z",
+            "last_commit": "2026-11-09T23:07:10Z",
             "open_issues": 24,
             "owner": "httpcats",
             "repo": "http.cat",
-            "stars": 3736,
+            "stars": 3737,
             "topics": [
               "api",
               "cats",
@@ -1121,7 +1121,7 @@
             "open_issues": 41,
             "owner": "orhun",
             "repo": "ratty",
-            "stars": 3327,
+            "stars": 3331,
             "topics": [
               "3d",
               "3d-graphics",
@@ -1157,7 +1157,7 @@
             "open_issues": 52,
             "owner": "Spu7Nix",
             "repo": "obamify",
-            "stars": 2187,
+            "stars": 2188,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1178,7 +1178,7 @@
             "open_issues": 28,
             "owner": "haskellcamargo",
             "repo": "gemidao-do-zap",
-            "stars": 1974,
+            "stars": 1972,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1226,7 +1226,7 @@
             "open_issues": 0,
             "owner": "RonSijm",
             "repo": "ButtFish",
-            "stars": 1514,
+            "stars": 1515,
             "topics": [
               "buttfish",
               "buttplug",
@@ -1275,7 +1275,7 @@
             "open_issues": 124,
             "owner": "ReciHub",
             "repo": "FunnyAlgorithms",
-            "stars": 534,
+            "stars": 535,
             "topics": [
               "algorithm",
               "algorithms",
@@ -1532,7 +1532,7 @@
             "open_issues": 1,
             "owner": "Droogans",
             "repo": "unmaintainable-code",
-            "stars": 10210,
+            "stars": 10211,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1767,7 +1767,7 @@
                 "open_issues": 220,
                 "owner": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
                 "repo": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-                "stars": 10538,
+                "stars": 10540,
                 "topics": [
                   "e",
                   "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
@@ -1835,7 +1835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:08:05.040Z",
+    "last_updated": "2026-11-10T18:18:58.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome hilarious github repositories",
@@ -1847,7 +1847,7 @@
       "open_issues": 1,
       "owner": "terremoth",
       "repo": "awesome-hilarious-repos",
-      "stars": 544,
+      "stars": 543,
       "topics": [
         "awesome",
         "awesome-list",
