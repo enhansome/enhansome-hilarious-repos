@@ -16,10 +16,10 @@
             "language": "Dockerfile",
             "license": "Apache-2.0",
             "last_commit": "2024-08-07T03:19:12Z",
-            "open_issues": 4732,
+            "open_issues": 4733,
             "owner": "kelseyhightower",
             "repo": "nocode",
-            "stars": 66124,
+            "stars": 66141,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -40,7 +40,7 @@
             "open_issues": 486,
             "owner": "TodePond",
             "repo": "GulfOfMexico",
-            "stars": 13642,
+            "stars": 13643,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -61,7 +61,7 @@
             "open_issues": 5,
             "owner": "samshadwell",
             "repo": "TrumpScript",
-            "stars": 7577,
+            "stars": 7576,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -103,7 +103,7 @@
             "open_issues": 22,
             "owner": "emojicode",
             "repo": "emojicode",
-            "stars": 3423,
+            "stars": 3422,
             "topics": [
               "compiler",
               "emojicode",
@@ -210,7 +210,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11732,
+            "stars": 11731,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -231,7 +231,7 @@
             "open_issues": 39,
             "owner": "lolcommits",
             "repo": "lolcommits",
-            "stars": 4816,
+            "stars": 4818,
             "topics": [
               "git",
               "git-addons",
@@ -258,7 +258,7 @@
             "open_issues": 2,
             "owner": "neodrama",
             "repo": "github-drama",
-            "stars": 371,
+            "stars": 372,
             "topics": [
               "collection",
               "drama",
@@ -415,7 +415,7 @@
             "open_issues": 72,
             "owner": "NARKOZ",
             "repo": "hacker-scripts",
-            "stars": 49879,
+            "stars": 49876,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -436,7 +436,7 @@
             "open_issues": 32,
             "owner": "busyloop",
             "repo": "lolcat",
-            "stars": 6596,
+            "stars": 6598,
             "topics": [
               "cli",
               "essentials"
@@ -486,7 +486,7 @@
             "open_issues": 8,
             "owner": "hugomd",
             "repo": "ascii-live",
-            "stars": 1095,
+            "stars": 1098,
             "topics": [
               "curl",
               "gif",
@@ -607,7 +607,7 @@
             "open_issues": 12,
             "owner": "drathier",
             "repo": "stack-overflow-import",
-            "stars": 3727,
+            "stars": 3726,
             "topics": [
               "import",
               "stackoverflow"
@@ -699,7 +699,7 @@
             "open_issues": 10,
             "owner": "edankwan",
             "repo": "penis.js",
-            "stars": 1366,
+            "stars": 1367,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -741,7 +741,7 @@
             "open_issues": 1,
             "owner": "sgolemon",
             "repo": "table-flip",
-            "stars": 342,
+            "stars": 341,
             "topics": [
               "exceptions",
               "php",
@@ -898,7 +898,7 @@
             "open_issues": 471,
             "owner": "nvbn",
             "repo": "thefuck",
-            "stars": 97965,
+            "stars": 97966,
             "topics": [
               "python",
               "shell"
@@ -922,7 +922,7 @@
             "open_issues": 550,
             "owner": "EnterpriseQualityCoding",
             "repo": "FizzBuzzEnterpriseEdition",
-            "stars": 23947,
+            "stars": 23949,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -943,7 +943,7 @@
             "open_issues": 61,
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22681,
+            "stars": 22678,
             "topics": [
               "anime"
             ]
@@ -966,7 +966,7 @@
             "open_issues": 23,
             "owner": "auchenberg",
             "repo": "volkswagen",
-            "stars": 15467,
+            "stars": 15466,
             "topics": [
               "cheat",
               "ci-server",
@@ -1022,7 +1022,7 @@
             "open_issues": 40,
             "owner": "MrGlockenspiel",
             "repo": "activate-linux",
-            "stars": 6042,
+            "stars": 6043,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1043,7 +1043,7 @@
             "open_issues": 8,
             "owner": "Lxtharia",
             "repo": "minegrub-theme",
-            "stars": 4653,
+            "stars": 4654,
             "topics": [
               "grub-theme",
               "grub-themes",
@@ -1092,7 +1092,7 @@
             "open_issues": 24,
             "owner": "httpcats",
             "repo": "http.cat",
-            "stars": 3746,
+            "stars": 3747,
             "topics": [
               "api",
               "cats",
@@ -1121,7 +1121,7 @@
             "open_issues": 40,
             "owner": "orhun",
             "repo": "ratty",
-            "stars": 3333,
+            "stars": 3332,
             "topics": [
               "3d",
               "3d-graphics",
@@ -1157,7 +1157,7 @@
             "open_issues": 52,
             "owner": "Spu7Nix",
             "repo": "obamify",
-            "stars": 2189,
+            "stars": 2190,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1199,7 +1199,7 @@
             "open_issues": 0,
             "owner": "corollari",
             "repo": "linusrants",
-            "stars": 1905,
+            "stars": 1906,
             "topics": [
               "dataset",
               "linus",
@@ -1226,7 +1226,7 @@
             "open_issues": 0,
             "owner": "RonSijm",
             "repo": "ButtFish",
-            "stars": 1515,
+            "stars": 1514,
             "topics": [
               "buttfish",
               "buttplug",
@@ -1254,7 +1254,7 @@
             "open_issues": 22,
             "owner": "asweigart",
             "repo": "my_first_tic_tac_toe",
-            "stars": 652,
+            "stars": 651,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1532,7 +1532,7 @@
             "open_issues": 2,
             "owner": "Droogans",
             "repo": "unmaintainable-code",
-            "stars": 10212,
+            "stars": 10211,
             "topics": []
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1576,7 +1576,7 @@
             "open_issues": 63,
             "owner": "duffn",
             "repo": "dumb-password-rules",
-            "stars": 3025,
+            "stars": 3024,
             "topics": [
               "hacktoberfest",
               "passwords",
@@ -1649,7 +1649,7 @@
             "open_issues": 162,
             "owner": "shrutikapoor08",
             "repo": "devjoke",
-            "stars": 1054,
+            "stars": 1055,
             "topics": [
               "developer-jokes",
               "humor",
@@ -1686,6 +1686,41 @@
         },
         {
           "node_type": "item",
+          "title": "Sv443-Network/JokeAPI",
+          "description": "Sv443-Network/JokeAPI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A free and open REST API that delivers consistently formatted jokes in JSON, XML, YAML, or plain text – with powerful filters to get just the jokes you want, no sign-up needed.",
+            "homepage": "https://v2.jokeapi.dev",
+            "id": 176494253,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-09-28T17:21:18Z",
+            "open_issues": 49,
+            "owner": "Sv443-Network",
+            "repo": "JokeAPI",
+            "stars": 285,
+            "topics": [
+              "api",
+              "entertainment",
+              "humor",
+              "humor-api",
+              "joke",
+              "jokes",
+              "jokes-api",
+              "js",
+              "json",
+              "rest-api",
+              "restful-api",
+              "xml",
+              "yaml"
+            ]
+          },
+          "first_seen": "2026-08-28T21:15:28.204Z"
+        },
+        {
+          "node_type": "item",
           "title": "amoudgl/short-jokes-dataset",
           "description": "amoudgl/short-jokes-dataset",
           "children": [],
@@ -1710,41 +1745,6 @@
               "python",
               "scrapers",
               "web-scraping"
-            ]
-          },
-          "first_seen": "2026-08-28T21:15:28.204Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Sv443-Network/JokeAPI",
-          "description": "Sv443-Network/JokeAPI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A free and open REST API that delivers consistently formatted jokes in JSON, XML, YAML, or plain text – with powerful filters to get just the jokes you want, no sign-up needed.",
-            "homepage": "https://v2.jokeapi.dev",
-            "id": 176494253,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-28T17:21:18Z",
-            "open_issues": 48,
-            "owner": "Sv443-Network",
-            "repo": "JokeAPI",
-            "stars": 284,
-            "topics": [
-              "api",
-              "entertainment",
-              "humor",
-              "humor-api",
-              "joke",
-              "jokes",
-              "jokes-api",
-              "js",
-              "json",
-              "rest-api",
-              "restful-api",
-              "xml",
-              "yaml"
             ]
           },
           "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1791,7 +1791,7 @@
                 "open_issues": 60,
                 "owner": "drtshock",
                 "repo": "Potato",
-                "stars": 798,
+                "stars": 799,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:28.204Z"
@@ -1835,7 +1835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:11:46.486Z",
+    "last_updated": "2026-11-20T18:52:37.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome hilarious github repositories",
@@ -1847,7 +1847,7 @@
       "open_issues": 1,
       "owner": "terremoth",
       "repo": "awesome-hilarious-repos",
-      "stars": 544,
+      "stars": 545,
       "topics": [
         "awesome",
         "awesome-list",
